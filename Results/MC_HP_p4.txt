@@ -1,0 +1,2293 @@
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose Paper4 scheduler ---------------------
+[Warning] Memory-boundness Calculation (ClusterB) is smaller than 0!
+CP: Training Phase finished. Predicted execution time and power results for the kernel tasks: 
+
+---------- Execution Time Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0180039	0.013452	
+CPU_Freq[1881600]: 0.0189428	0.0139164	
+CPU_Freq[1728000]: 0.0200251	0.0146433	
+CPU_Freq[1574400]: 0.0213287	0.0155121	
+CPU_Freq[1420800]: 0.0229287	0.0165687	
+CPU_Freq[1267200]: 0.0249392	0.0178814	
+CPU_Freq[1113600]: 0.0269015	0.0204541	
+CPU_Freq[960000]: 0.0310359	0.0217671	
+CPU_Freq[806400]: 0.0359791	0.0248202	
+CPU_Freq[652800]: 0.043493	0.0293099	
+CPU_Freq[499200]: 0.0562457	0.0365627	
+CPU_Freq[345600]: 0.0824062	0.0502622	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0547137	0.0431005	0.0197591	
+CPU_Freq[1881600]: 0.0601784	0.0416136	0.0204244	
+CPU_Freq[1728000]: 0.0652322	0.0419644	0.0213981	
+CPU_Freq[1574400]: 0.071294	0.0424044	0.0225768	
+CPU_Freq[1420800]: 0.0786986	0.0429701	0.0240326	
+CPU_Freq[1267200]: 0.0879476	0.0437196	0.0258751	
+CPU_Freq[1113600]: 0.108327	0.0437122	0.0287657	
+CPU_Freq[960000]: 0.115644	0.0462411	0.0315488	
+CPU_Freq[806400]: 0.137741	0.04854	0.0362374	
+CPU_Freq[652800]: 0.170773	0.0524287	0.043501	
+CPU_Freq[499200]: 0.22548	0.0599878	0.0561617	
+CPU_Freq[345600]: 0.333359	0.0785716	0.0832012	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0191875	0.0155495	
+CPU_Freq[1881600]: 0.0200896	0.0161594	
+CPU_Freq[1728000]: 0.021159	0.0168778	
+CPU_Freq[1574400]: 0.0224472	0.0177364	
+CPU_Freq[1420800]: 0.0240285	0.0187806	
+CPU_Freq[1267200]: 0.0260157	0.0200779	
+CPU_Freq[1113600]: 0.0285871	0.0217332	
+CPU_Freq[960000]: 0.0320435	0.0239181	
+CPU_Freq[806400]: 0.0369325	0.0269353	
+CPU_Freq[652800]: 0.0443668	0.0313724	
+CPU_Freq[499200]: 0.0569909	0.0385401	
+CPU_Freq[345600]: 0.0829086	0.052079	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0561187	0.0451839	0.0205381	
+CPU_Freq[1881600]: 0.0603781	0.0454452	0.0213416	
+CPU_Freq[1728000]: 0.0654101	0.0457676	0.0222987	
+CPU_Freq[1574400]: 0.0714459	0.0461736	0.0234575	
+CPU_Freq[1420800]: 0.078819	0.046698	0.024889	
+CPU_Freq[1267200]: 0.0880288	0.0473961	0.0267015	
+CPU_Freq[1113600]: 0.0998583	0.0483619	0.0290684	
+CPU_Freq[960000]: 0.115609	0.0497656	0.0322862	
+CPU_Freq[806400]: 0.137615	0.0519451	0.0369048	
+CPU_Freq[652800]: 0.170513	0.0556581	0.0440656	
+CPU_Freq[499200]: 0.225003	0.0629336	0.0565602	
+CPU_Freq[345600]: 0.332473	0.0809815	0.0832858	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0209242	0.0187369	
+CPU_Freq[1881600]: 0.0218107	0.0193366	
+CPU_Freq[1728000]: 0.0228619	0.0200429	
+CPU_Freq[1574400]: 0.0241282	0.0208871	
+CPU_Freq[1420800]: 0.025683	0.0219137	
+CPU_Freq[1267200]: 0.0276372	0.0231893	
+CPU_Freq[1113600]: 0.0301666	0.0248167	
+CPU_Freq[960000]: 0.0335674	0.0269649	
+CPU_Freq[806400]: 0.0383798	0.0299314	
+CPU_Freq[652800]: 0.0457013	0.034294	
+CPU_Freq[499200]: 0.0581432	0.0413412	
+CPU_Freq[345600]: 0.0837168	0.0546526	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0564818	0.0507428	0.0219027	
+CPU_Freq[1881600]: 0.0607151	0.0509699	0.0226862	
+CPU_Freq[1728000]: 0.0657163	0.051252	0.0236196	
+CPU_Freq[1574400]: 0.0717154	0.0516099	0.0247503	
+CPU_Freq[1420800]: 0.0790438	0.0520757	0.0261475	
+CPU_Freq[1267200]: 0.088198	0.0527011	0.0279174	
+CPU_Freq[1113600]: 0.0999567	0.0535741	0.0302299	
+CPU_Freq[960000]: 0.115614	0.0548552	0.033376	
+CPU_Freq[806400]: 0.137491	0.0568656	0.0378956	
+CPU_Freq[652800]: 0.170198	0.0603298	0.0449107	
+CPU_Freq[499200]: 0.224382	0.0672034	0.0571699	
+CPU_Freq[345600]: 0.331272	0.0844923	0.083451	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0237535	0.0235373	
+CPU_Freq[1881600]: 0.0246167	0.0241216	
+CPU_Freq[1728000]: 0.0256404	0.0248097	
+CPU_Freq[1574400]: 0.0268738	0.0256321	
+CPU_Freq[1420800]: 0.0283887	0.0266323	
+CPU_Freq[1267200]: 0.0302932	0.027875	
+CPU_Freq[1113600]: 0.0327592	0.0294605	
+CPU_Freq[960000]: 0.0360764	0.0315534	
+CPU_Freq[806400]: 0.0407733	0.0344436	
+CPU_Freq[652800]: 0.047925	0.0386938	
+CPU_Freq[499200]: 0.0600926	0.0455596	
+CPU_Freq[345600]: 0.0851479	0.0585283	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0571486	0.0593296	0.024058	
+CPU_Freq[1881600]: 0.0613425	0.0595051	0.0248113	
+CPU_Freq[1728000]: 0.0662975	0.0597266	0.0257092	
+CPU_Freq[1574400]: 0.0722412	0.060012	0.0267974	
+CPU_Freq[1420800]: 0.0795022	0.0603896	0.028143	
+CPU_Freq[1267200]: 0.0885728	0.0609055	0.0298487	
+CPU_Freq[1113600]: 0.100225	0.0616387	0.0320794	
+CPU_Freq[960000]: 0.115741	0.0627354	0.0351175	
+CPU_Freq[806400]: 0.137423	0.0644909	0.0394879	
+CPU_Freq[652800]: 0.169845	0.0675806	0.0462836	
+CPU_Freq[499200]: 0.223566	0.0738489	0.0581884	
+CPU_Freq[345600]: 0.329583	0.0899946	0.0838	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0288974	0.0313349	
+CPU_Freq[1881600]: 0.0297227	0.0318941	
+CPU_Freq[1728000]: 0.0307017	0.0325527	
+CPU_Freq[1574400]: 0.0318818	0.0333398	
+CPU_Freq[1420800]: 0.0333317	0.0342971	
+CPU_Freq[1267200]: 0.0351556	0.0354865	
+CPU_Freq[1113600]: 0.0375187	0.0370039	
+CPU_Freq[960000]: 0.0407	0.039007	
+CPU_Freq[806400]: 0.0452093	0.0417731	
+CPU_Freq[652800]: 0.0520851	0.0458409	
+CPU_Freq[499200]: 0.063807	0.052412	
+CPU_Freq[345600]: 0.0880206	0.0648241	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0585391	0.0738286	0.0278157	
+CPU_Freq[1881600]: 0.0626691	0.0739205	0.02852	
+CPU_Freq[1728000]: 0.0675488	0.0740434	0.0293602	
+CPU_Freq[1574400]: 0.0734026	0.0742111	0.0303794	
+CPU_Freq[1420800]: 0.0805542	0.0744455	0.0316412	
+CPU_Freq[1267200]: 0.0894889	0.0747834	0.0332427	
+CPU_Freq[1113600]: 0.100967	0.0752896	0.0353404	
+CPU_Freq[960000]: 0.116255	0.0760866	0.038203	
+CPU_Freq[806400]: 0.137621	0.0774283	0.042331	
+CPU_Freq[652800]: 0.169578	0.0799093	0.0487703	
+CPU_Freq[499200]: 0.222548	0.0851946	0.0600994	
+CPU_Freq[345600]: 0.327147	0.0994832	0.0846236	
+
+---------- CPU Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.5971	3.54634	
+CPU_Freq[1881600]: 2.29692	3.1178	
+CPU_Freq[1728000]: 2.02073	2.72979	
+CPU_Freq[1574400]: 1.76855	2.38232	
+CPU_Freq[1420800]: 1.54037	2.07538	
+CPU_Freq[1267200]: 1.33619	1.80898	
+CPU_Freq[1113600]: 1.15602	1.5831	
+CPU_Freq[960000]: 0.999845	1.39777	
+CPU_Freq[806400]: 0.867676	1.25296	
+CPU_Freq[652800]: 0.759508	1.14869	
+CPU_Freq[499200]: 0.675343	1.08496	
+CPU_Freq[345600]: 0.615181	1.06175	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.26716	2.22029	
+CPU_Freq[1881600]: 1.09176	1.10556	1.92567	
+CPU_Freq[1728000]: 0.953273	0.961662	1.65892	
+CPU_Freq[1574400]: 0.827964	0.83548	1.42005	
+CPU_Freq[1420800]: 0.715838	0.727013	1.20905	
+CPU_Freq[1267200]: 0.616894	0.636259	1.02593	
+CPU_Freq[1113600]: 0.531132	0.563219	0.870676	
+CPU_Freq[960000]: 0.458552	0.507892	0.743298	
+CPU_Freq[806400]: 0.399154	0.470279	0.643794	
+CPU_Freq[652800]: 0.352938	0.450379	0.572164	
+CPU_Freq[499200]: 0.319904	0.448194	0.528407	
+CPU_Freq[345600]: 0.300052	0.463721	0.512524	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.5971	3.54634	
+CPU_Freq[1881600]: 2.29692	3.1178	
+CPU_Freq[1728000]: 2.02073	2.72979	
+CPU_Freq[1574400]: 1.76855	2.38232	
+CPU_Freq[1420800]: 1.54037	2.07538	
+CPU_Freq[1267200]: 1.33619	1.80898	
+CPU_Freq[1113600]: 1.15602	1.5831	
+CPU_Freq[960000]: 0.999845	1.39777	
+CPU_Freq[806400]: 0.867676	1.25296	
+CPU_Freq[652800]: 0.759508	1.14869	
+CPU_Freq[499200]: 0.675343	1.08496	
+CPU_Freq[345600]: 0.615181	1.06175	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.26716	2.22029	
+CPU_Freq[1881600]: 1.09176	1.10556	1.92567	
+CPU_Freq[1728000]: 0.953273	0.961662	1.65892	
+CPU_Freq[1574400]: 0.827964	0.83548	1.42005	
+CPU_Freq[1420800]: 0.715838	0.727013	1.20905	
+CPU_Freq[1267200]: 0.616894	0.636259	1.02593	
+CPU_Freq[1113600]: 0.531132	0.563219	0.870676	
+CPU_Freq[960000]: 0.458552	0.507892	0.743298	
+CPU_Freq[806400]: 0.399154	0.470279	0.643794	
+CPU_Freq[652800]: 0.352938	0.450379	0.572164	
+CPU_Freq[499200]: 0.319904	0.448194	0.528407	
+CPU_Freq[345600]: 0.300052	0.463721	0.512524	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.5971	3.54634	
+CPU_Freq[1881600]: 2.29692	3.1178	
+CPU_Freq[1728000]: 2.02073	2.72979	
+CPU_Freq[1574400]: 1.76855	2.38232	
+CPU_Freq[1420800]: 1.54037	2.07538	
+CPU_Freq[1267200]: 1.33619	1.80898	
+CPU_Freq[1113600]: 1.15602	1.5831	
+CPU_Freq[960000]: 0.999845	1.39777	
+CPU_Freq[806400]: 0.867676	1.25296	
+CPU_Freq[652800]: 0.759508	1.14869	
+CPU_Freq[499200]: 0.675343	1.08496	
+CPU_Freq[345600]: 0.615181	1.06175	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.26716	2.22029	
+CPU_Freq[1881600]: 1.09176	1.10556	1.92567	
+CPU_Freq[1728000]: 0.953273	0.961662	1.65892	
+CPU_Freq[1574400]: 0.827964	0.83548	1.42005	
+CPU_Freq[1420800]: 0.715838	0.727013	1.20905	
+CPU_Freq[1267200]: 0.616894	0.636259	1.02593	
+CPU_Freq[1113600]: 0.531132	0.563219	0.870676	
+CPU_Freq[960000]: 0.458552	0.507892	0.743298	
+CPU_Freq[806400]: 0.399154	0.470279	0.643794	
+CPU_Freq[652800]: 0.352938	0.450379	0.572164	
+CPU_Freq[499200]: 0.319904	0.448194	0.528407	
+CPU_Freq[345600]: 0.300052	0.463721	0.512524	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.5971	3.54634	
+CPU_Freq[1881600]: 2.29692	3.1178	
+CPU_Freq[1728000]: 2.02073	2.72979	
+CPU_Freq[1574400]: 1.76855	2.38232	
+CPU_Freq[1420800]: 1.54037	2.07538	
+CPU_Freq[1267200]: 1.33619	1.80898	
+CPU_Freq[1113600]: 1.15602	1.5831	
+CPU_Freq[960000]: 0.999845	1.39777	
+CPU_Freq[806400]: 0.867676	1.25296	
+CPU_Freq[652800]: 0.759508	1.14869	
+CPU_Freq[499200]: 0.675343	1.08496	
+CPU_Freq[345600]: 0.615181	1.06175	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.26716	2.22029	
+CPU_Freq[1881600]: 1.09176	1.10556	1.92567	
+CPU_Freq[1728000]: 0.953273	0.961662	1.65892	
+CPU_Freq[1574400]: 0.827964	0.83548	1.42005	
+CPU_Freq[1420800]: 0.715838	0.727013	1.20905	
+CPU_Freq[1267200]: 0.616894	0.636259	1.02593	
+CPU_Freq[1113600]: 0.531132	0.563219	0.870676	
+CPU_Freq[960000]: 0.458552	0.507892	0.743298	
+CPU_Freq[806400]: 0.399154	0.470279	0.643794	
+CPU_Freq[652800]: 0.352938	0.450379	0.572164	
+CPU_Freq[499200]: 0.319904	0.448194	0.528407	
+CPU_Freq[345600]: 0.300052	0.463721	0.512524	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.5971	3.54634	
+CPU_Freq[1881600]: 2.29692	3.1178	
+CPU_Freq[1728000]: 2.02073	2.72979	
+CPU_Freq[1574400]: 1.76855	2.38232	
+CPU_Freq[1420800]: 1.54037	2.07538	
+CPU_Freq[1267200]: 1.33619	1.80898	
+CPU_Freq[1113600]: 1.15602	1.5831	
+CPU_Freq[960000]: 0.999845	1.39777	
+CPU_Freq[806400]: 0.867676	1.25296	
+CPU_Freq[652800]: 0.759508	1.14869	
+CPU_Freq[499200]: 0.675343	1.08496	
+CPU_Freq[345600]: 0.615181	1.06175	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.26716	2.22029	
+CPU_Freq[1881600]: 1.09176	1.10556	1.92567	
+CPU_Freq[1728000]: 0.953273	0.961662	1.65892	
+CPU_Freq[1574400]: 0.827964	0.83548	1.42005	
+CPU_Freq[1420800]: 0.715838	0.727013	1.20905	
+CPU_Freq[1267200]: 0.616894	0.636259	1.02593	
+CPU_Freq[1113600]: 0.531132	0.563219	0.870676	
+CPU_Freq[960000]: 0.458552	0.507892	0.743298	
+CPU_Freq[806400]: 0.399154	0.470279	0.643794	
+CPU_Freq[652800]: 0.352938	0.450379	0.572164	
+CPU_Freq[499200]: 0.319904	0.448194	0.528407	
+CPU_Freq[345600]: 0.300052	0.463721	0.512524	
+
+---------- Memory Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 3.20164	7.35508	
+CPU_Freq[1881600]: 3.09272	6.87045	
+CPU_Freq[1728000]: 2.98096	6.38174	
+CPU_Freq[1574400]: 2.86635	5.88895	
+CPU_Freq[1420800]: 2.74891	5.39208	
+CPU_Freq[1267200]: 2.62862	4.89113	
+CPU_Freq[1113600]: 2.50549	4.38611	
+CPU_Freq[960000]: 2.37953	3.877	
+CPU_Freq[806400]: 2.25072	3.36382	
+CPU_Freq[652800]: 2.11907	2.84655	
+CPU_Freq[499200]: 1.98457	2.32521	
+CPU_Freq[345600]: 1.84724	1.79978	
+Cluster 1: 
+CPU_Freq[2035200]: 1.16165	2.55243	1.75094	
+CPU_Freq[1881600]: 1.1632	2.51962	1.73122	
+CPU_Freq[1728000]: 1.16291	2.48391	1.70962	
+CPU_Freq[1574400]: 1.16078	2.4453	1.68612	
+CPU_Freq[1420800]: 1.15681	2.40378	1.66074	
+CPU_Freq[1267200]: 1.151	2.35936	1.63347	
+CPU_Freq[1113600]: 1.14336	2.31203	1.60431	
+CPU_Freq[960000]: 1.13387	2.2618	1.57326	
+CPU_Freq[806400]: 1.12255	2.20867	1.54032	
+CPU_Freq[652800]: 1.10939	2.15263	1.5055	
+CPU_Freq[499200]: 1.09439	2.09368	1.46879	
+CPU_Freq[345600]: 1.07755	2.03183	1.43018	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.87648	7.16596	
+CPU_Freq[1881600]: 2.76743	6.68219	
+CPU_Freq[1728000]: 2.65555	6.19434	
+CPU_Freq[1574400]: 2.54082	5.70242	
+CPU_Freq[1420800]: 2.42326	5.20642	
+CPU_Freq[1267200]: 2.30285	4.70633	
+CPU_Freq[1113600]: 2.1796	4.20217	
+CPU_Freq[960000]: 2.05351	3.69393	
+CPU_Freq[806400]: 1.92458	3.1816	
+CPU_Freq[652800]: 1.7928	2.6652	
+CPU_Freq[499200]: 1.65819	2.14472	
+CPU_Freq[345600]: 1.52073	1.62016	
+Cluster 1: 
+CPU_Freq[2035200]: 0.737039	2.17771	1.35523	
+CPU_Freq[1881600]: 0.738587	2.14491	1.33551	
+CPU_Freq[1728000]: 0.738295	2.10921	1.3139	
+CPU_Freq[1574400]: 0.736166	2.0706	1.2904	
+CPU_Freq[1420800]: 0.732197	2.02908	1.26501	
+CPU_Freq[1267200]: 0.72639	1.98467	1.23774	
+CPU_Freq[1113600]: 0.718744	1.93734	1.20857	
+CPU_Freq[960000]: 0.709259	1.88712	1.17752	
+CPU_Freq[806400]: 0.697936	1.83399	1.14458	
+CPU_Freq[652800]: 0.684773	1.77795	1.10975	
+CPU_Freq[499200]: 0.669772	1.71901	1.07303	
+CPU_Freq[345600]: 0.652933	1.65717	1.03443	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.663	7.08032	
+CPU_Freq[1881600]: 2.55383	6.59742	
+CPU_Freq[1728000]: 2.44182	6.11045	
+CPU_Freq[1574400]: 2.32697	5.6194	
+CPU_Freq[1420800]: 2.20928	5.12427	
+CPU_Freq[1267200]: 2.08875	4.62506	
+CPU_Freq[1113600]: 1.96538	4.12177	
+CPU_Freq[960000]: 1.83917	3.6144	
+CPU_Freq[806400]: 1.71011	3.10295	
+CPU_Freq[652800]: 1.57821	2.58742	
+CPU_Freq[499200]: 1.44347	2.06781	
+CPU_Freq[345600]: 1.30589	1.54412	
+Cluster 1: 
+CPU_Freq[2035200]: 0.442528	1.92354	1.0826	
+CPU_Freq[1881600]: 0.444075	1.89075	1.06287	
+CPU_Freq[1728000]: 0.443784	1.85505	1.04126	
+CPU_Freq[1574400]: 0.441655	1.81644	1.01775	
+CPU_Freq[1420800]: 0.437686	1.77493	0.99236	
+CPU_Freq[1267200]: 0.431879	1.73052	0.965079	
+CPU_Freq[1113600]: 0.424233	1.6832	0.93591	
+CPU_Freq[960000]: 0.414748	1.63298	0.904853	
+CPU_Freq[806400]: 0.403425	1.57985	0.871907	
+CPU_Freq[652800]: 0.390262	1.52382	0.837073	
+CPU_Freq[499200]: 0.375261	1.46489	0.800351	
+CPU_Freq[345600]: 0.358421	1.40305	0.76174	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.56522	7.1007	
+CPU_Freq[1881600]: 2.45593	6.61868	
+CPU_Freq[1728000]: 2.3438	6.13259	
+CPU_Freq[1574400]: 2.22883	5.64241	
+CPU_Freq[1420800]: 2.11101	5.14815	
+CPU_Freq[1267200]: 1.99036	4.64981	
+CPU_Freq[1113600]: 1.86686	4.14739	
+CPU_Freq[960000]: 1.74053	3.64089	
+CPU_Freq[806400]: 1.61135	3.13032	
+CPU_Freq[652800]: 1.47933	2.61566	
+CPU_Freq[499200]: 1.34446	2.09693	
+CPU_Freq[345600]: 1.20676	1.57411	
+Cluster 1: 
+CPU_Freq[2035200]: 0.283293	1.79452	0.937869	
+CPU_Freq[1881600]: 0.28484	1.76173	0.918137	
+CPU_Freq[1728000]: 0.284549	1.72603	0.896517	
+CPU_Freq[1574400]: 0.28242	1.68743	0.873009	
+CPU_Freq[1420800]: 0.278451	1.64593	0.847612	
+CPU_Freq[1267200]: 0.272644	1.60152	0.820326	
+CPU_Freq[1113600]: 0.264998	1.55421	0.791153	
+CPU_Freq[960000]: 0.255513	1.50399	0.760091	
+CPU_Freq[806400]: 0.24419	1.45087	0.727141	
+CPU_Freq[652800]: 0.231027	1.39484	0.692302	
+CPU_Freq[499200]: 0.216026	1.33591	0.655575	
+CPU_Freq[345600]: 0.199186	1.27407	0.616959	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.58138	7.22287	
+CPU_Freq[1881600]: 2.47197	6.74171	
+CPU_Freq[1728000]: 2.35972	6.25646	
+CPU_Freq[1574400]: 2.24462	5.76713	
+CPU_Freq[1420800]: 2.12669	5.27373	
+CPU_Freq[1267200]: 2.00591	4.77624	
+CPU_Freq[1113600]: 1.8823	4.27467	
+CPU_Freq[960000]: 1.75584	3.76903	
+CPU_Freq[806400]: 1.62654	3.2593	
+CPU_Freq[652800]: 1.4944	2.7455	
+CPU_Freq[499200]: 1.35942	2.22762	
+CPU_Freq[345600]: 1.22159	1.70566	
+Cluster 1: 
+CPU_Freq[2035200]: 0.258332	1.78927	0.919958	
+CPU_Freq[1881600]: 0.25988	1.75649	0.900222	
+CPU_Freq[1728000]: 0.259589	1.7208	0.878598	
+CPU_Freq[1574400]: 0.257459	1.6822	0.855085	
+CPU_Freq[1420800]: 0.253491	1.6407	0.829683	
+CPU_Freq[1267200]: 0.247684	1.5963	0.802393	
+CPU_Freq[1113600]: 0.240038	1.54899	0.773215	
+CPU_Freq[960000]: 0.230553	1.49878	0.742149	
+CPU_Freq[806400]: 0.219229	1.44566	0.709194	
+CPU_Freq[652800]: 0.206067	1.38963	0.674351	
+CPU_Freq[499200]: 0.191066	1.33071	0.637619	
+CPU_Freq[345600]: 0.174226	1.26888	0.598999	
+
+[Congratulations!] All the training Phase finished. Training finished time: 1687719825999. Set the CPU frequency of all clusters back to the highest frequency
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 60.3095% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 39.6905% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.6119% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.3881% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.9972% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.0028% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 57.765% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 42.235% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.6698% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.3302% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7105% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2895% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.6482% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.3518% of tasks should be scheduled to cluster 1
+[DEBUG] Work stealing from cluster 1 to cluster 0
+[DEBUG] Work stealing from cluster 1 to cluster 0
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.4157% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.5843% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.6529% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.3471% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.4986% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.5014% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.2853% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.7147% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.4268% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.5732% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.2021% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.7979% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.5583% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.4417% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.9768% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.0232% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.8391% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.1609% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7101% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2899% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.7912% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.2088% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.394% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.606% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.5258% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.4742% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.6777% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.3223% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.134% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.866% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.6065% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.3935% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.1841% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.8159% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.411% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.589% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.8671% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.1329% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.2073% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.7928% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.2413% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.7587% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.7129% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.2871% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.8739% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.1261% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 57.6801% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 42.3199% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.9793% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.0207% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7234% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2765% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.8045% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.1955% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.3672% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.6328% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.7851% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.2149% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.3166% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.6834% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.7328% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.2672% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.4847% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.5153% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.3624% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.6376% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.0211% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.9789% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.2623% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.7377% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.6046% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.3954% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.1747% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.8253% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.4831% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.5169% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.0046% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.9954% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.2159% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.784% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.16% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.84% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.7694% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.2306% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.5915% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.4085% of tasks should be scheduled to cluster 1
+[DEBUG] Work stealing from cluster 1 to cluster 0
+[DEBUG] Work stealing from cluster 1 to cluster 0
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.6164% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.3836% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.4623% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.5377% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 48.918% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 51.082% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.6713% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.3287% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.9374% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.0626% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.6016% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.3984% of tasks should be scheduled to cluster 1
+Thread 4 sleeps for 134652 ms. 
+Task type: 0: Thread 4 with width 1 completes 1415 tasks.
+Task type: 0: Thread 4 with width 2 completes 3 tasks.
+Task type: 0: Thread 4 with width 4 completes 10 tasks.
+Task type: 1: Thread 4 with width 1 completes 0 tasks.
+Task type: 1: Thread 4 with width 2 completes 0 tasks.
+Task type: 1: Thread 4 with width 4 completes 0 tasks.
+Task type: 2: Thread 4 with width 1 completes 0 tasks.
+Task type: 2: Thread 4 with width 2 completes 0 tasks.
+Task type: 2: Thread 4 with width 4 completes 0 tasks.
+Task type: 3: Thread 4 with width 1 completes 0 tasks.
+Task type: 3: Thread 4 with width 2 completes 0 tasks.
+Task type: 3: Thread 4 with width 4 completes 0 tasks.
+Task type: 4: Thread 4 with width 1 completes 0 tasks.
+Task type: 4: Thread 4 with width 2 completes 0 tasks.
+Task type: 4: Thread 4 with width 4 completes 0 tasks.
+Task type: 5: Thread 4 with width 1 completes 0 tasks.
+Task type: 5: Thread 4 with width 2 completes 0 tasks.
+Task type: 5: Thread 4 with width 4 completes 0 tasks.
+The total execution time of thread 4 is 86.6003 s.
+Thread 5 sleeps for 134827 ms. 
+Task type: 0: Thread 5 with width 1 completes 1416 tasks.
+Task type: 0: Thread 5 with width 2 completes 3 tasks.
+Task type: 0: Thread 5 with width 4 completes 10 tasks.
+Task type: 1: Thread 5 with width 1 completes 0 tasks.
+Task type: 1: Thread 5 with width 2 completes 0 tasks.
+Task type: 1: Thread 5 with width 4 completes 0 tasks.
+Task type: 2: Thread 5 with width 1 completes 0 tasks.
+Task type: 2: Thread 5 with width 2 completes 0 tasks.
+Task type: 2: Thread 5 with width 4 completes 0 tasks.
+Task type: 3: Thread 5 with width 1 completes 0 tasks.
+Task type: 3: Thread 5 with width 2 completes 0 tasks.
+Task type: 3: Thread 5 with width 4 completes 0 tasks.
+Task type: 4: Thread 5 with width 1 completes 0 tasks.
+Task type: 4: Thread 5 with width 2 completes 0 tasks.
+Task type: 4: Thread 5 with width 4 completes 0 tasks.
+Task type: 5: Thread 5 with width 1 completes 0 tasks.
+Task type: 5: Thread 5 with width 2 completes 0 tasks.
+Task type: 5: Thread 5 with width 4 completes 0 tasks.
+The total execution time of thread 5 is 86.2952 s.
+Thread 0 sleeps for 20918 ms. 
+Task type: 0: Thread 0 with width 1 completes 2139 tasks.
+Task type: 0: Thread 0 with width 2 completes 10467 tasks.
+Task type: 0: Thread 0 with width 4 completes 0 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 1: Thread 0 with width 2 completes 0 tasks.
+Task type: 1: Thread 0 with width 4 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 2 completes 0 tasks.
+Task type: 2: Thread 0 with width 4 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 2 completes 0 tasks.
+Task type: 3: Thread 0 with width 4 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 2 completes 0 tasks.
+Task type: 4: Thread 0 with width 4 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 2 completes 0 tasks.
+Task type: 5: Thread 0 with width 4 completes 0 tasks.
+The total execution time of thread 0 is 199.83 s.
+Thread 1 sleeps for 21651 ms. 
+Task type: 0: Thread 1 with width 1 completes 2073 tasks.
+Task type: 0: Thread 1 with width 2 completes 10467 tasks.
+Task type: 0: Thread 1 with width 4 completes 0 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 1: Thread 1 with width 2 completes 0 tasks.
+Task type: 1: Thread 1 with width 4 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 2 completes 0 tasks.
+Task type: 2: Thread 1 with width 4 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 2 completes 0 tasks.
+Task type: 3: Thread 1 with width 4 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 2 completes 0 tasks.
+Task type: 4: Thread 1 with width 4 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 2 completes 0 tasks.
+Task type: 5: Thread 1 with width 4 completes 0 tasks.
+The total execution time of thread 1 is 199.305 s.
+Thread 3 sleeps for 154235 ms. 
+Task type: 0: Thread 3 with width 1 completes 1098 tasks.
+Task type: 0: Thread 3 with width 2 completes 4 tasks.
+Task type: 0: Thread 3 with width 4 completes 10 tasks.
+Task type: 1: Thread 3 with width 1 completes 0 tasks.
+Task type: 1: Thread 3 with width 2 completes 0 tasks.
+Task type: 1: Thread 3 with width 4 completes 0 tasks.
+Task type: 2: Thread 3 with width 1 completes 0 tasks.
+Task type: 2: Thread 3 with width 2 completes 0 tasks.
+Task type: 2: Thread 3 with width 4 completes 0 tasks.
+Task type: 3: Thread 3 with width 1 completes 0 tasks.
+Task type: 3: Thread 3 with width 2 completes 0 tasks.
+Task type: 3: Thread 3 with width 4 completes 0 tasks.
+Task type: 4: Thread 3 with width 1 completes 0 tasks.
+Task type: 4: Thread 3 with width 2 completes 0 tasks.
+Task type: 4: Thread 3 with width 4 completes 0 tasks.
+Task type: 5: Thread 3 with width 1 completes 0 tasks.
+Task type: 5: Thread 3 with width 2 completes 0 tasks.
+Task type: 5: Thread 3 with width 4 completes 0 tasks.
+The total execution time of thread 3 is 66.7074 s.
+Thread 2 sleeps for 134567 ms. 
+Task type: 0: Thread 2 with width 1 completes 1375 tasks.
+Task type: 0: Thread 2 with width 2 completes 4 tasks.
+Task type: 0: Thread 2 with width 4 completes 10 tasks.
+Task type: 1: Thread 2 with width 1 completes 0 tasks.
+Task type: 1: Thread 2 with width 2 completes 0 tasks.
+Task type: 1: Thread 2 with width 4 completes 0 tasks.
+Task type: 2: Thread 2 with width 1 completes 0 tasks.
+Task type: 2: Thread 2 with width 2 completes 0 tasks.
+Task type: 2: Thread 2 with width 4 completes 0 tasks.
+Task type: 3: Thread 2 with width 1 completes 0 tasks.
+Task type: 3: Thread 2 with width 2 completes 0 tasks.
+Task type: 3: Thread 2 with width 4 completes 0 tasks.
+Task type: 4: Thread 2 with width 1 completes 0 tasks.
+Task type: 4: Thread 2 with width 2 completes 0 tasks.
+Task type: 4: Thread 2 with width 4 completes 0 tasks.
+Task type: 5: Thread 2 with width 1 completes 0 tasks.
+Task type: 5: Thread 2 with width 2 completes 0 tasks.
+Task type: 5: Thread 2 with width 4 completes 0 tasks.
+The total execution time of thread 2 is 86.5354 s.
+20000,4,1687719825063	1687720047303,222.239,89.993
+Total number of steals across clusters: 4
+
+
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose Paper4 scheduler ---------------------
+[Warning] CP->Memory-boundness (ClusterA) is smaller than 0!
+[Warning] CP->Memory-boundness (ClusterA) is smaller than 0!
+[Warning] Memory-boundness Calculation (ClusterB) is smaller than 0!
+CP: Training Phase finished. Predicted execution time and power results for the kernel tasks: 
+
+---------- Execution Time Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.02024	0.0121458	
+CPU_Freq[1881600]: 0.0223869	0.0127941	
+CPU_Freq[1728000]: 0.0242065	0.0140259	
+CPU_Freq[1574400]: 0.0263923	0.0154981	
+CPU_Freq[1420800]: 0.0290673	0.0172887	
+CPU_Freq[1267200]: 0.032416	0.0195132	
+CPU_Freq[1113600]: 0.0469736	0.0239975	
+CPU_Freq[960000]: 0.0424922	0.026098	
+CPU_Freq[806400]: 0.0505811	0.0312717	
+CPU_Freq[652800]: 0.0627514	0.0388802	
+CPU_Freq[499200]: 0.0831023	0.0511708	
+CPU_Freq[345600]: 0.123872	0.0743863	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0435859	0.0246388	0.0186366	
+CPU_Freq[1881600]: 0.0479393	0.0266914	0.0188794	
+CPU_Freq[1728000]: 0.0519652	0.0287198	0.0193126	
+CPU_Freq[1574400]: 0.0567941	0.0311558	0.0198445	
+CPU_Freq[1420800]: 0.0626928	0.034136	0.0205122	
+CPU_Freq[1267200]: 0.0700607	0.0378653	0.0213738	
+CPU_Freq[1113600]: 0.0734106	0.0429716	0.0229267	
+CPU_Freq[960000]: 0.0921243	0.0490773	0.0241316	
+CPU_Freq[806400]: 0.109727	0.0580683	0.0265159	
+CPU_Freq[652800]: 0.136041	0.0715809	0.03037	
+CPU_Freq[499200]: 0.179621	0.094139	0.0374703	
+CPU_Freq[345600]: 0.26556	0.13921	0.0538294	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0208011	0.0117506	
+CPU_Freq[1881600]: 0.022327	0.0127899	
+CPU_Freq[1728000]: 0.0241321	0.0140141	
+CPU_Freq[1574400]: 0.0263006	0.0154771	
+CPU_Freq[1420800]: 0.0289545	0.0172564	
+CPU_Freq[1267200]: 0.0322771	0.0194671	
+CPU_Freq[1113600]: 0.0365568	0.0222876	
+CPU_Freq[960000]: 0.0422758	0.0260107	
+CPU_Freq[806400]: 0.0503038	0.0311521	
+CPU_Freq[652800]: 0.0623846	0.0387131	
+CPU_Freq[499200]: 0.082591	0.0509268	
+CPU_Freq[345600]: 0.123088	0.0739973	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0447052	0.0252689	0.0198271	
+CPU_Freq[1881600]: 0.0480983	0.0269702	0.020173	
+CPU_Freq[1728000]: 0.0521069	0.0289823	0.0205905	
+CPU_Freq[1574400]: 0.0569152	0.0313989	0.0211036	
+CPU_Freq[1420800]: 0.0627887	0.0343554	0.0217485	
+CPU_Freq[1267200]: 0.0701253	0.0380554	0.0225818	
+CPU_Freq[1113600]: 0.079549	0.0428189	0.0236963	
+CPU_Freq[960000]: 0.0920965	0.0491805	0.0252556	
+CPU_Freq[806400]: 0.109627	0.0581032	0.0275739	
+CPU_Freq[652800]: 0.135834	0.0715154	0.031331	
+CPU_Freq[499200]: 0.179242	0.0939113	0.0382746	
+CPU_Freq[345600]: 0.264854	0.138676	0.0543377	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0208424	0.0117539	
+CPU_Freq[1881600]: 0.0223508	0.012784	
+CPU_Freq[1728000]: 0.0241354	0.0139973	
+CPU_Freq[1574400]: 0.0262794	0.0154473	
+CPU_Freq[1420800]: 0.0289035	0.0172108	
+CPU_Freq[1267200]: 0.032189	0.0194017	
+CPU_Freq[1113600]: 0.0364214	0.0221972	
+CPU_Freq[960000]: 0.042078	0.0258871	
+CPU_Freq[806400]: 0.0500198	0.0309827	
+CPU_Freq[652800]: 0.0619738	0.0384763	
+CPU_Freq[499200]: 0.0819753	0.0505813	
+CPU_Freq[345600]: 0.122086	0.0734463	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0449945	0.0257388	0.0217211	
+CPU_Freq[1881600]: 0.0483667	0.0274205	0.0220481	
+CPU_Freq[1728000]: 0.0523508	0.0294096	0.0224433	
+CPU_Freq[1574400]: 0.0571298	0.0317987	0.0229298	
+CPU_Freq[1420800]: 0.0629677	0.0347218	0.0235425	
+CPU_Freq[1267200]: 0.0702601	0.0383801	0.0243355	
+CPU_Freq[1113600]: 0.0796273	0.0430906	0.0253987	
+CPU_Freq[960000]: 0.0921004	0.0493821	0.0268904	
+CPU_Freq[806400]: 0.109528	0.0582082	0.0291153	
+CPU_Freq[652800]: 0.135583	0.0714781	0.032735	
+CPU_Freq[499200]: 0.178747	0.0936444	0.0394567	
+CPU_Freq[345600]: 0.263897	0.137975	0.0551004	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.021145	0.011759	
+CPU_Freq[1881600]: 0.0226272	0.0127752	
+CPU_Freq[1728000]: 0.0243809	0.013972	
+CPU_Freq[1574400]: 0.0264879	0.0154024	
+CPU_Freq[1420800]: 0.0290671	0.017142	
+CPU_Freq[1267200]: 0.0322968	0.0193033	
+CPU_Freq[1113600]: 0.036458	0.0220609	
+CPU_Freq[960000]: 0.0420205	0.0257009	
+CPU_Freq[806400]: 0.0498325	0.0307276	
+CPU_Freq[652800]: 0.0615956	0.0381198	
+CPU_Freq[499200]: 0.0812887	0.050061	
+CPU_Freq[345600]: 0.120816	0.0726166	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0455257	0.0265694	0.024668	
+CPU_Freq[1881600]: 0.0488666	0.0282217	0.0249666	
+CPU_Freq[1728000]: 0.0528138	0.0301761	0.0253282	
+CPU_Freq[1574400]: 0.0575487	0.0325237	0.0257747	
+CPU_Freq[1420800]: 0.063333	0.0353964	0.0263387	
+CPU_Freq[1267200]: 0.0705587	0.0389922	0.0270712	
+CPU_Freq[1113600]: 0.0798409	0.0436228	0.0280572	
+CPU_Freq[960000]: 0.0922017	0.0498088	0.029447	
+CPU_Freq[806400]: 0.109474	0.0584892	0.0315312	
+CPU_Freq[652800]: 0.135302	0.0715449	0.034944	
+CPU_Freq[499200]: 0.178097	0.0933652	0.0413313	
+CPU_Freq[345600]: 0.262552	0.137042	0.0563436	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0222527	0.0117672	
+CPU_Freq[1881600]: 0.0236923	0.0127608	
+CPU_Freq[1728000]: 0.0253957	0.0139309	
+CPU_Freq[1574400]: 0.0274428	0.0153294	
+CPU_Freq[1420800]: 0.0299489	0.0170303	
+CPU_Freq[1267200]: 0.0330879	0.0191434	
+CPU_Freq[1113600]: 0.0371334	0.0218396	
+CPU_Freq[960000]: 0.0425432	0.0253985	
+CPU_Freq[806400]: 0.0501443	0.0303132	
+CPU_Freq[652800]: 0.0615973	0.0375406	
+CPU_Freq[499200]: 0.0807894	0.0492157	
+CPU_Freq[345600]: 0.119371	0.0712688	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0466333	0.0282335	0.029697	
+CPU_Freq[1881600]: 0.0499234	0.0298379	0.0299494	
+CPU_Freq[1728000]: 0.0538106	0.031736	0.0302566	
+CPU_Freq[1574400]: 0.0584738	0.0340163	0.0306381	
+CPU_Freq[1420800]: 0.064171	0.0368071	0.0311229	
+CPU_Freq[1267200]: 0.0712885	0.0403012	0.0317572	
+CPU_Freq[1113600]: 0.0804325	0.044802	0.0326178	
+CPU_Freq[960000]: 0.092611	0.0508167	0.033842	
+CPU_Freq[806400]: 0.109632	0.0592606	0.0356977	
+CPU_Freq[652800]: 0.135089	0.0719684	0.0387742	
+CPU_Freq[499200]: 0.177286	0.0932266	0.0446186	
+CPU_Freq[345600]: 0.260612	0.135842	0.0586053	
+
+---------- CPU Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.13544	
+CPU_Freq[1881600]: 1.60824	2.70275	
+CPU_Freq[1728000]: 1.38386	2.3106	
+CPU_Freq[1574400]: 1.18347	1.95897	
+CPU_Freq[1420800]: 1.00709	1.64789	
+CPU_Freq[1267200]: 0.854716	1.37733	
+CPU_Freq[1113600]: 0.72634	1.14731	
+CPU_Freq[960000]: 0.621967	0.957823	
+CPU_Freq[806400]: 0.541597	0.80887	
+CPU_Freq[652800]: 0.485229	0.70045	
+CPU_Freq[499200]: 0.452863	0.632565	
+CPU_Freq[345600]: 0.4445	0.605213	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.82187	1.97353	
+CPU_Freq[1881600]: 1.09176	1.60369	1.70344	
+CPU_Freq[1728000]: 0.953273	1.40323	1.46122	
+CPU_Freq[1574400]: 0.827964	1.22048	1.24688	
+CPU_Freq[1420800]: 0.715838	1.05545	1.06042	
+CPU_Freq[1267200]: 0.616894	0.908124	0.901825	
+CPU_Freq[1113600]: 0.531132	0.778516	0.771105	
+CPU_Freq[960000]: 0.458552	0.666622	0.668259	
+CPU_Freq[806400]: 0.399154	0.572441	0.593287	
+CPU_Freq[652800]: 0.352938	0.495974	0.546189	
+CPU_Freq[499200]: 0.319904	0.437221	0.526964	
+CPU_Freq[345600]: 0.300052	0.396181	0.535613	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.13544	
+CPU_Freq[1881600]: 1.60824	2.70275	
+CPU_Freq[1728000]: 1.38386	2.3106	
+CPU_Freq[1574400]: 1.18347	1.95897	
+CPU_Freq[1420800]: 1.00709	1.64789	
+CPU_Freq[1267200]: 0.854716	1.37733	
+CPU_Freq[1113600]: 0.72634	1.14731	
+CPU_Freq[960000]: 0.621967	0.957823	
+CPU_Freq[806400]: 0.541597	0.80887	
+CPU_Freq[652800]: 0.485229	0.70045	
+CPU_Freq[499200]: 0.452863	0.632565	
+CPU_Freq[345600]: 0.4445	0.605213	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.82187	1.97353	
+CPU_Freq[1881600]: 1.09176	1.60369	1.70344	
+CPU_Freq[1728000]: 0.953273	1.40323	1.46122	
+CPU_Freq[1574400]: 0.827964	1.22048	1.24688	
+CPU_Freq[1420800]: 0.715838	1.05545	1.06042	
+CPU_Freq[1267200]: 0.616894	0.908124	0.901825	
+CPU_Freq[1113600]: 0.531132	0.778516	0.771105	
+CPU_Freq[960000]: 0.458552	0.666622	0.668259	
+CPU_Freq[806400]: 0.399154	0.572441	0.593287	
+CPU_Freq[652800]: 0.352938	0.495974	0.546189	
+CPU_Freq[499200]: 0.319904	0.437221	0.526964	
+CPU_Freq[345600]: 0.300052	0.396181	0.535613	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.13544	
+CPU_Freq[1881600]: 1.60824	2.70275	
+CPU_Freq[1728000]: 1.38386	2.3106	
+CPU_Freq[1574400]: 1.18347	1.95897	
+CPU_Freq[1420800]: 1.00709	1.64789	
+CPU_Freq[1267200]: 0.854716	1.37733	
+CPU_Freq[1113600]: 0.72634	1.14731	
+CPU_Freq[960000]: 0.621967	0.957823	
+CPU_Freq[806400]: 0.541597	0.80887	
+CPU_Freq[652800]: 0.485229	0.70045	
+CPU_Freq[499200]: 0.452863	0.632565	
+CPU_Freq[345600]: 0.4445	0.605213	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.82187	1.97353	
+CPU_Freq[1881600]: 1.09176	1.60369	1.70344	
+CPU_Freq[1728000]: 0.953273	1.40323	1.46122	
+CPU_Freq[1574400]: 0.827964	1.22048	1.24688	
+CPU_Freq[1420800]: 0.715838	1.05545	1.06042	
+CPU_Freq[1267200]: 0.616894	0.908124	0.901825	
+CPU_Freq[1113600]: 0.531132	0.778516	0.771105	
+CPU_Freq[960000]: 0.458552	0.666622	0.668259	
+CPU_Freq[806400]: 0.399154	0.572441	0.593287	
+CPU_Freq[652800]: 0.352938	0.495974	0.546189	
+CPU_Freq[499200]: 0.319904	0.437221	0.526964	
+CPU_Freq[345600]: 0.300052	0.396181	0.535613	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.13544	
+CPU_Freq[1881600]: 1.60824	2.70275	
+CPU_Freq[1728000]: 1.38386	2.3106	
+CPU_Freq[1574400]: 1.18347	1.95897	
+CPU_Freq[1420800]: 1.00709	1.64789	
+CPU_Freq[1267200]: 0.854716	1.37733	
+CPU_Freq[1113600]: 0.72634	1.14731	
+CPU_Freq[960000]: 0.621967	0.957823	
+CPU_Freq[806400]: 0.541597	0.80887	
+CPU_Freq[652800]: 0.485229	0.70045	
+CPU_Freq[499200]: 0.452863	0.632565	
+CPU_Freq[345600]: 0.4445	0.605213	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.82187	1.97353	
+CPU_Freq[1881600]: 1.09176	1.60369	1.70344	
+CPU_Freq[1728000]: 0.953273	1.40323	1.46122	
+CPU_Freq[1574400]: 0.827964	1.22048	1.24688	
+CPU_Freq[1420800]: 0.715838	1.05545	1.06042	
+CPU_Freq[1267200]: 0.616894	0.908124	0.901825	
+CPU_Freq[1113600]: 0.531132	0.778516	0.771105	
+CPU_Freq[960000]: 0.458552	0.666622	0.668259	
+CPU_Freq[806400]: 0.399154	0.572441	0.593287	
+CPU_Freq[652800]: 0.352938	0.495974	0.546189	
+CPU_Freq[499200]: 0.319904	0.437221	0.526964	
+CPU_Freq[345600]: 0.300052	0.396181	0.535613	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.13544	
+CPU_Freq[1881600]: 1.60824	2.70275	
+CPU_Freq[1728000]: 1.38386	2.3106	
+CPU_Freq[1574400]: 1.18347	1.95897	
+CPU_Freq[1420800]: 1.00709	1.64789	
+CPU_Freq[1267200]: 0.854716	1.37733	
+CPU_Freq[1113600]: 0.72634	1.14731	
+CPU_Freq[960000]: 0.621967	0.957823	
+CPU_Freq[806400]: 0.541597	0.80887	
+CPU_Freq[652800]: 0.485229	0.70045	
+CPU_Freq[499200]: 0.452863	0.632565	
+CPU_Freq[345600]: 0.4445	0.605213	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.82187	1.97353	
+CPU_Freq[1881600]: 1.09176	1.60369	1.70344	
+CPU_Freq[1728000]: 0.953273	1.40323	1.46122	
+CPU_Freq[1574400]: 0.827964	1.22048	1.24688	
+CPU_Freq[1420800]: 0.715838	1.05545	1.06042	
+CPU_Freq[1267200]: 0.616894	0.908124	0.901825	
+CPU_Freq[1113600]: 0.531132	0.778516	0.771105	
+CPU_Freq[960000]: 0.458552	0.666622	0.668259	
+CPU_Freq[806400]: 0.399154	0.572441	0.593287	
+CPU_Freq[652800]: 0.352938	0.495974	0.546189	
+CPU_Freq[499200]: 0.319904	0.437221	0.526964	
+CPU_Freq[345600]: 0.300052	0.396181	0.535613	
+
+---------- Memory Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.10973	1.11309	
+CPU_Freq[1881600]: 1.11684	1.12451	
+CPU_Freq[1728000]: 1.12112	1.13185	
+CPU_Freq[1574400]: 1.12255	1.13512	
+CPU_Freq[1420800]: 1.12114	1.1343	
+CPU_Freq[1267200]: 1.11689	1.12941	
+CPU_Freq[1113600]: 1.1098	1.12044	
+CPU_Freq[960000]: 1.09987	1.10738	
+CPU_Freq[806400]: 1.08709	1.09025	
+CPU_Freq[652800]: 1.07148	1.06904	
+CPU_Freq[499200]: 1.05302	1.04375	
+CPU_Freq[345600]: 1.03172	1.01438	
+Cluster 1: 
+CPU_Freq[2035200]: 1.16165	1.25816	2.27007	
+CPU_Freq[1881600]: 1.1632	1.25955	2.23623	
+CPU_Freq[1728000]: 1.16291	1.25804	2.20049	
+CPU_Freq[1574400]: 1.16078	1.25363	2.16287	
+CPU_Freq[1420800]: 1.15681	1.24631	2.12336	
+CPU_Freq[1267200]: 1.151	1.23609	2.08196	
+CPU_Freq[1113600]: 1.14336	1.22296	2.03868	
+CPU_Freq[960000]: 1.13387	1.20693	1.9935	
+CPU_Freq[806400]: 1.12255	1.18799	1.94644	
+CPU_Freq[652800]: 1.10939	1.16615	1.89749	
+CPU_Freq[499200]: 1.09439	1.1414	1.84665	
+CPU_Freq[345600]: 1.07755	1.11375	1.79392	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.720326	0.73183	
+CPU_Freq[1881600]: 0.72732	0.744118	
+CPU_Freq[1728000]: 0.731472	0.752325	
+CPU_Freq[1574400]: 0.732783	0.756454	
+CPU_Freq[1420800]: 0.731252	0.756503	
+CPU_Freq[1267200]: 0.72688	0.752472	
+CPU_Freq[1113600]: 0.719666	0.744362	
+CPU_Freq[960000]: 0.709612	0.732172	
+CPU_Freq[806400]: 0.696715	0.715903	
+CPU_Freq[652800]: 0.680978	0.695555	
+CPU_Freq[499200]: 0.662399	0.671127	
+CPU_Freq[345600]: 0.640978	0.642619	
+Cluster 1: 
+CPU_Freq[2035200]: 0.737039	0.855301	1.88366	
+CPU_Freq[1881600]: 0.738587	0.856699	1.84981	
+CPU_Freq[1728000]: 0.738295	0.855194	1.81407	
+CPU_Freq[1574400]: 0.736166	0.850784	1.77645	
+CPU_Freq[1420800]: 0.732197	0.843469	1.73693	
+CPU_Freq[1267200]: 0.72639	0.83325	1.69553	
+CPU_Freq[1113600]: 0.718744	0.820126	1.65224	
+CPU_Freq[960000]: 0.709259	0.804098	1.60706	
+CPU_Freq[806400]: 0.697936	0.785166	1.56	
+CPU_Freq[652800]: 0.684773	0.763328	1.51104	
+CPU_Freq[499200]: 0.669772	0.738586	1.4602	
+CPU_Freq[345600]: 0.652933	0.71094	1.40746	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.441929	0.452034	
+CPU_Freq[1881600]: 0.448799	0.465194	
+CPU_Freq[1728000]: 0.452827	0.474274	
+CPU_Freq[1574400]: 0.454015	0.479275	
+CPU_Freq[1420800]: 0.45236	0.480197	
+CPU_Freq[1267200]: 0.447865	0.477039	
+CPU_Freq[1113600]: 0.440528	0.469802	
+CPU_Freq[960000]: 0.43035	0.458485	
+CPU_Freq[806400]: 0.41733	0.443089	
+CPU_Freq[652800]: 0.401469	0.423613	
+CPU_Freq[499200]: 0.382766	0.400058	
+CPU_Freq[345600]: 0.361223	0.372424	
+Cluster 1: 
+CPU_Freq[2035200]: 0.442528	0.572693	1.62042	
+CPU_Freq[1881600]: 0.444075	0.574097	1.58657	
+CPU_Freq[1728000]: 0.443784	0.572595	1.55083	
+CPU_Freq[1574400]: 0.441655	0.56819	1.5132	
+CPU_Freq[1420800]: 0.437686	0.56088	1.47368	
+CPU_Freq[1267200]: 0.431879	0.550665	1.43227	
+CPU_Freq[1113600]: 0.424233	0.537546	1.38898	
+CPU_Freq[960000]: 0.414748	0.521522	1.34379	
+CPU_Freq[806400]: 0.403425	0.502594	1.29672	
+CPU_Freq[652800]: 0.390262	0.480761	1.24776	
+CPU_Freq[499200]: 0.375261	0.456024	1.19691	
+CPU_Freq[345600]: 0.358421	0.428382	1.14417	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.279236	0.278262	
+CPU_Freq[1881600]: 0.285982	0.292295	
+CPU_Freq[1728000]: 0.289887	0.302248	
+CPU_Freq[1574400]: 0.290951	0.308122	
+CPU_Freq[1420800]: 0.289174	0.309917	
+CPU_Freq[1267200]: 0.284555	0.307632	
+CPU_Freq[1113600]: 0.277095	0.301267	
+CPU_Freq[960000]: 0.266793	0.290823	
+CPU_Freq[806400]: 0.25365	0.2763	
+CPU_Freq[652800]: 0.237665	0.257697	
+CPU_Freq[499200]: 0.218839	0.235015	
+CPU_Freq[345600]: 0.197172	0.208253	
+Cluster 1: 
+CPU_Freq[2035200]: 0.283293	0.41523	1.48509	
+CPU_Freq[1881600]: 0.28484	0.416638	1.45123	
+CPU_Freq[1728000]: 0.284549	0.415141	1.41548	
+CPU_Freq[1574400]: 0.28242	0.41074	1.37785	
+CPU_Freq[1420800]: 0.278451	0.403434	1.33833	
+CPU_Freq[1267200]: 0.272644	0.393224	1.29691	
+CPU_Freq[1113600]: 0.264998	0.380109	1.25362	
+CPU_Freq[960000]: 0.255513	0.36409	1.20843	
+CPU_Freq[806400]: 0.24419	0.345166	1.16135	
+CPU_Freq[652800]: 0.231027	0.323338	1.11239	
+CPU_Freq[499200]: 0.216026	0.298605	1.06153	
+CPU_Freq[345600]: 0.199186	0.270967	1.00879	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.232022	0.210897	
+CPU_Freq[1881600]: 0.238648	0.225782	
+CPU_Freq[1728000]: 0.242433	0.236587	
+CPU_Freq[1574400]: 0.243376	0.243313	
+CPU_Freq[1420800]: 0.241478	0.245959	
+CPU_Freq[1267200]: 0.236739	0.244526	
+CPU_Freq[1113600]: 0.229158	0.239014	
+CPU_Freq[960000]: 0.218736	0.229422	
+CPU_Freq[806400]: 0.205472	0.215751	
+CPU_Freq[652800]: 0.189367	0.198	
+CPU_Freq[499200]: 0.170421	0.17617	
+CPU_Freq[345600]: 0.148633	0.15026	
+Cluster 1: 
+CPU_Freq[2035200]: 0.258332	0.382225	1.47635	
+CPU_Freq[1881600]: 0.25988	0.383638	1.44249	
+CPU_Freq[1728000]: 0.259589	0.382145	1.40674	
+CPU_Freq[1574400]: 0.257459	0.377748	1.3691	
+CPU_Freq[1420800]: 0.253491	0.370447	1.32957	
+CPU_Freq[1267200]: 0.247684	0.360241	1.28815	
+CPU_Freq[1113600]: 0.240038	0.347131	1.24485	
+CPU_Freq[960000]: 0.230553	0.331116	1.19966	
+CPU_Freq[806400]: 0.219229	0.312196	1.15258	
+CPU_Freq[652800]: 0.206067	0.290372	1.10361	
+CPU_Freq[499200]: 0.191066	0.265644	1.05275	
+CPU_Freq[345600]: 0.174226	0.238011	1	
+
+[Congratulations!] All the training Phase finished. Training finished time: 1687720079248. Set the CPU frequency of all clusters back to the highest frequency
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.8473% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.1527% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <2>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.3548% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.6452% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.1488% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.8512% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.7667% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.2333% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.9194% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.0806% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.2995% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.7005% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.2393% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.7607% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.9139% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.0861% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.7009% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.2991% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.2484% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.7516% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.2003% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.7997% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.5419% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.4581% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.0408% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.9592% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 57.2893% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 42.7107% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.9659% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.0341% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.5953% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.4047% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.1105% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.8895% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.5795% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.4205% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.0414% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.9586% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.4235% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.5765% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.5673% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.4327% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 55.2629% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 44.7371% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7123% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2877% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.5742% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.4258% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.8565% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.1435% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.539% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.461% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.8376% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.1624% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.1682% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.8318% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.886% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.114% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.1231% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.8769% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.1631% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.8369% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.1743% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.8257% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.7752% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.2248% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.4283% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.5717% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.9411% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.0589% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.2024% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.7976% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.5879% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.4121% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.7645% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.2355% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.4055% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.5945% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.9131% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.0869% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.8734% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.1266% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.0482% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.9518% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.9859% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.0141% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.7695% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.2305% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.2146% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.7854% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.9708% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.0292% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.9657% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.0343% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.7647% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.2353% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.4395% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.5605% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.6797% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.3203% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.7933% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.2067% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.0768% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.9232% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.1935% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.8065% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.115% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.885% of tasks should be scheduled to cluster 1
+Thread 3 sleeps for 133859 ms. 
+Task type: 0: Thread 3 with width 1 completes 1354 tasks.
+Task type: 0: Thread 3 with width 2 completes 3 tasks.
+Task type: 0: Thread 3 with width 4 completes 12 tasks.
+Task type: 1: Thread 3 with width 1 completes 0 tasks.
+Task type: 1: Thread 3 with width 2 completes 0 tasks.
+Task type: 1: Thread 3 with width 4 completes 0 tasks.
+Task type: 2: Thread 3 with width 1 completes 0 tasks.
+Task type: 2: Thread 3 with width 2 completes 0 tasks.
+Task type: 2: Thread 3 with width 4 completes 0 tasks.
+Task type: 3: Thread 3 with width 1 completes 0 tasks.
+Task type: 3: Thread 3 with width 2 completes 0 tasks.
+Task type: 3: Thread 3 with width 4 completes 0 tasks.
+Task type: 4: Thread 3 with width 1 completes 0 tasks.
+Task type: 4: Thread 3 with width 2 completes 0 tasks.
+Task type: 4: Thread 3 with width 4 completes 0 tasks.
+Task type: 5: Thread 3 with width 1 completes 0 tasks.
+Task type: 5: Thread 3 with width 2 completes 0 tasks.
+Task type: 5: Thread 3 with width 4 completes 0 tasks.
+The total execution time of thread 3 is 83.0573 s.
+Thread 5 sleeps for 142263 ms. 
+Task type: 0: Thread 5 with width 1 completes 1156 tasks.
+Task type: 0: Thread 5 with width 2 completes 97 tasks.
+Task type: 0: Thread 5 with width 4 completes 12 tasks.
+Task type: 1: Thread 5 with width 1 completes 0 tasks.
+Task type: 1: Thread 5 with width 2 completes 0 tasks.
+Task type: 1: Thread 5 with width 4 completes 0 tasks.
+Task type: 2: Thread 5 with width 1 completes 0 tasks.
+Task type: 2: Thread 5 with width 2 completes 0 tasks.
+Task type: 2: Thread 5 with width 4 completes 0 tasks.
+Task type: 3: Thread 5 with width 1 completes 0 tasks.
+Task type: 3: Thread 5 with width 2 completes 0 tasks.
+Task type: 3: Thread 5 with width 4 completes 0 tasks.
+Task type: 4: Thread 5 with width 1 completes 0 tasks.
+Task type: 4: Thread 5 with width 2 completes 0 tasks.
+Task type: 4: Thread 5 with width 4 completes 0 tasks.
+Task type: 5: Thread 5 with width 1 completes 0 tasks.
+Task type: 5: Thread 5 with width 2 completes 0 tasks.
+Task type: 5: Thread 5 with width 4 completes 0 tasks.
+The total execution time of thread 5 is 74.5643 s.
+Thread 0 sleeps for 13854 ms. 
+Task type: 0: Thread 0 with width 1 completes 1285 tasks.
+Task type: 0: Thread 0 with width 2 completes 12320 tasks.
+Task type: 0: Thread 0 with width 4 completes 0 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 1: Thread 0 with width 2 completes 0 tasks.
+Task type: 1: Thread 0 with width 4 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 2 completes 0 tasks.
+Task type: 2: Thread 0 with width 4 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 2 completes 0 tasks.
+Task type: 3: Thread 0 with width 4 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 2 completes 0 tasks.
+Task type: 4: Thread 0 with width 4 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 2 completes 0 tasks.
+Task type: 5: Thread 0 with width 4 completes 0 tasks.
+The total execution time of thread 0 is 202.745 s.
+Thread 1 sleeps for 13939 ms. 
+Task type: 0: Thread 1 with width 1 completes 1255 tasks.
+Task type: 0: Thread 1 with width 2 completes 12320 tasks.
+Task type: 0: Thread 1 with width 4 completes 0 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 1: Thread 1 with width 2 completes 0 tasks.
+Task type: 1: Thread 1 with width 4 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 2 completes 0 tasks.
+Task type: 2: Thread 1 with width 4 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 2 completes 0 tasks.
+Task type: 3: Thread 1 with width 4 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 2 completes 0 tasks.
+Task type: 4: Thread 1 with width 4 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 2 completes 0 tasks.
+Task type: 5: Thread 1 with width 4 completes 0 tasks.
+The total execution time of thread 1 is 202.799 s.
+Thread 4 sleeps for 135662 ms. 
+Task type: 0: Thread 4 with width 1 completes 1270 tasks.
+Task type: 0: Thread 4 with width 2 completes 97 tasks.
+Task type: 0: Thread 4 with width 4 completes 12 tasks.
+Task type: 1: Thread 4 with width 1 completes 0 tasks.
+Task type: 1: Thread 4 with width 2 completes 0 tasks.
+Task type: 1: Thread 4 with width 4 completes 0 tasks.
+Task type: 2: Thread 4 with width 1 completes 0 tasks.
+Task type: 2: Thread 4 with width 2 completes 0 tasks.
+Task type: 2: Thread 4 with width 4 completes 0 tasks.
+Task type: 3: Thread 4 with width 1 completes 0 tasks.
+Task type: 3: Thread 4 with width 2 completes 0 tasks.
+Task type: 3: Thread 4 with width 4 completes 0 tasks.
+Task type: 4: Thread 4 with width 1 completes 0 tasks.
+Task type: 4: Thread 4 with width 2 completes 0 tasks.
+Task type: 4: Thread 4 with width 4 completes 0 tasks.
+Task type: 5: Thread 4 with width 1 completes 0 tasks.
+Task type: 5: Thread 4 with width 2 completes 0 tasks.
+Task type: 5: Thread 4 with width 4 completes 0 tasks.
+The total execution time of thread 4 is 81.215 s.
+Thread 2 sleeps for 137475 ms. 
+Task type: 0: Thread 2 with width 1 completes 1248 tasks.
+Task type: 0: Thread 2 with width 2 completes 3 tasks.
+Task type: 0: Thread 2 with width 4 completes 12 tasks.
+Task type: 1: Thread 2 with width 1 completes 0 tasks.
+Task type: 1: Thread 2 with width 2 completes 0 tasks.
+Task type: 1: Thread 2 with width 4 completes 0 tasks.
+Task type: 2: Thread 2 with width 1 completes 0 tasks.
+Task type: 2: Thread 2 with width 2 completes 0 tasks.
+Task type: 2: Thread 2 with width 4 completes 0 tasks.
+Task type: 3: Thread 2 with width 1 completes 0 tasks.
+Task type: 3: Thread 2 with width 2 completes 0 tasks.
+Task type: 3: Thread 2 with width 4 completes 0 tasks.
+Task type: 4: Thread 2 with width 1 completes 0 tasks.
+Task type: 4: Thread 2 with width 2 completes 0 tasks.
+Task type: 4: Thread 2 with width 4 completes 0 tasks.
+Task type: 5: Thread 2 with width 1 completes 0 tasks.
+Task type: 5: Thread 2 with width 2 completes 0 tasks.
+Task type: 5: Thread 2 with width 4 completes 0 tasks.
+The total execution time of thread 2 is 79.2861 s.
+20000,4,1687720078154	1687720296103,217.949,91.7648
+Total number of steals across clusters: 0
+
+
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose Paper4 scheduler ---------------------
+[Warning] Memory-boundness Calculation (ClusterB) is smaller than 0!
+[Warning] Memory-boundness Calculation (ClusterB) is smaller than 0!
+[Warning] Memory-boundness Calculation (ClusterB) is greater than 1!
+CP: Training Phase finished. Predicted execution time and power results for the kernel tasks: 
+
+---------- Execution Time Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0261937	0.0136637	
+CPU_Freq[1881600]: 0.0276222	0.0142508	
+CPU_Freq[1728000]: 0.0292686	0.0152792	
+CPU_Freq[1574400]: 0.0312508	0.0165082	
+CPU_Freq[1420800]: 0.0336829	0.0180029	
+CPU_Freq[1267200]: 0.0367373	0.01986	
+CPU_Freq[1113600]: 0.0440645	0.0226552	
+CPU_Freq[960000]: 0.0459904	0.0253569	
+CPU_Freq[806400]: 0.0534832	0.029676	
+CPU_Freq[652800]: 0.0648578	0.0360275	
+CPU_Freq[499200]: 0.0841265	0.0462877	
+CPU_Freq[345600]: 0.123538	0.065668	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0486095	0.0227319	0.0270256	
+CPU_Freq[1881600]: 0.0534646	0.0249074	0.0270468	
+CPU_Freq[1728000]: 0.0579545	0.0269718	0.026957	
+CPU_Freq[1574400]: 0.06334	0.0294499	0.0268703	
+CPU_Freq[1420800]: 0.0699186	0.0324799	0.0267951	
+CPU_Freq[1267200]: 0.0781357	0.036269	0.0267481	
+CPU_Freq[1113600]: 0.0820365	0.0468012	0.0229901	
+CPU_Freq[960000]: 0.102742	0.0476447	0.0269095	
+CPU_Freq[806400]: 0.122374	0.0567504	0.0273519	
+CPU_Freq[652800]: 0.151721	0.070409	0.0285066	
+CPU_Freq[499200]: 0.200324	0.0931466	0.03164	
+CPU_Freq[345600]: 0.296168	0.138366	0.0418326	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0277571	0.0146408	
+CPU_Freq[1881600]: 0.0291303	0.0155066	
+CPU_Freq[1728000]: 0.030758	0.0165262	
+CPU_Freq[1574400]: 0.0327177	0.0177449	
+CPU_Freq[1420800]: 0.0351226	0.019227	
+CPU_Freq[1267200]: 0.0381431	0.0210685	
+CPU_Freq[1113600]: 0.0420494	0.0234179	
+CPU_Freq[960000]: 0.047296	0.0265192	
+CPU_Freq[806400]: 0.05471	0.0308019	
+CPU_Freq[652800]: 0.0659687	0.0370999	
+CPU_Freq[499200]: 0.0850504	0.0472737	
+CPU_Freq[345600]: 0.124108	0.0664909	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0498578	0.0232293	0.0296646	
+CPU_Freq[1881600]: 0.053642	0.0249627	0.0295567	
+CPU_Freq[1728000]: 0.0581126	0.0270121	0.0294441	
+CPU_Freq[1574400]: 0.0634751	0.0294723	0.0293302	
+CPU_Freq[1420800]: 0.0700256	0.0324805	0.0292219	
+CPU_Freq[1267200]: 0.0782078	0.0362426	0.0291337	
+CPU_Freq[1113600]: 0.0887176	0.041082	0.0290957	
+CPU_Freq[960000]: 0.102711	0.0475381	0.0291735	
+CPU_Freq[806400]: 0.122262	0.0565808	0.0295201	
+CPU_Freq[652800]: 0.151489	0.0701467	0.0305342	
+CPU_Freq[499200]: 0.1999	0.0927347	0.0334403	
+CPU_Freq[345600]: 0.29538	0.137672	0.0432037	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0300566	0.0164299	
+CPU_Freq[1881600]: 0.0314072	0.0172853	
+CPU_Freq[1728000]: 0.0330083	0.0182927	
+CPU_Freq[1574400]: 0.0349363	0.0194967	
+CPU_Freq[1420800]: 0.0373025	0.020961	
+CPU_Freq[1267200]: 0.0402751	0.0227803	
+CPU_Freq[1113600]: 0.0441202	0.0251015	
+CPU_Freq[960000]: 0.049286	0.0281655	
+CPU_Freq[806400]: 0.0565884	0.0323967	
+CPU_Freq[652800]: 0.0676831	0.038619	
+CPU_Freq[499200]: 0.0864997	0.0486704	
+CPU_Freq[345600]: 0.125057	0.0676565	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0501804	0.023377	0.0333092	
+CPU_Freq[1881600]: 0.0539414	0.0250924	0.0331739	
+CPU_Freq[1728000]: 0.0583847	0.0271205	0.033029	
+CPU_Freq[1574400]: 0.0637145	0.0295553	0.0328766	
+CPU_Freq[1420800]: 0.0702252	0.0325326	0.0327214	
+CPU_Freq[1267200]: 0.0783581	0.0362563	0.032575	
+CPU_Freq[1113600]: 0.088805	0.0410469	0.0324626	
+CPU_Freq[960000]: 0.102716	0.0474383	0.0324422	
+CPU_Freq[806400]: 0.122152	0.0563918	0.0326534	
+CPU_Freq[652800]: 0.15121	0.0698265	0.0334682	
+CPU_Freq[499200]: 0.199348	0.0922025	0.0360525	
+CPU_Freq[345600]: 0.294313	0.136739	0.0452079	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0338308	0.0191245	
+CPU_Freq[1881600]: 0.0351475	0.0199642	
+CPU_Freq[1728000]: 0.0367085	0.0209531	
+CPU_Freq[1574400]: 0.0385887	0.022135	
+CPU_Freq[1420800]: 0.0408968	0.0235725	
+CPU_Freq[1267200]: 0.0437971	0.0253584	
+CPU_Freq[1113600]: 0.0475501	0.0276371	
+CPU_Freq[960000]: 0.0525942	0.0306449	
+CPU_Freq[806400]: 0.0597286	0.0347985	
+CPU_Freq[652800]: 0.0705762	0.0409067	
+CPU_Freq[499200]: 0.0889937	0.0507739	
+CPU_Freq[345600]: 0.126797	0.0694118	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0507728	0.0237128	0.0389351	
+CPU_Freq[1881600]: 0.0544988	0.025401	0.0387585	
+CPU_Freq[1728000]: 0.058901	0.0273971	0.0385651	
+CPU_Freq[1574400]: 0.0641816	0.0297937	0.0383546	
+CPU_Freq[1420800]: 0.0706326	0.0327245	0.0381288	
+CPU_Freq[1267200]: 0.0786911	0.0363904	0.0378946	
+CPU_Freq[1113600]: 0.0890431	0.0411073	0.0376703	
+CPU_Freq[960000]: 0.102829	0.0474014	0.0375022	
+CPU_Freq[806400]: 0.122092	0.0562205	0.0375093	
+CPU_Freq[652800]: 0.150896	0.0694576	0.0380239	
+CPU_Freq[499200]: 0.198624	0.0915144	0.0401235	
+CPU_Freq[345600]: 0.292813	0.135448	0.0483632	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0407589	0.0235014	
+CPU_Freq[1881600]: 0.0420204	0.0243156	
+CPU_Freq[1728000]: 0.0435164	0.0252746	
+CPU_Freq[1574400]: 0.045319	0.0264206	
+CPU_Freq[1420800]: 0.0475326	0.0278145	
+CPU_Freq[1267200]: 0.0503156	0.0295463	
+CPU_Freq[1113600]: 0.0539188	0.0317558	
+CPU_Freq[960000]: 0.0587652	0.0346723	
+CPU_Freq[806400]: 0.0656268	0.0386999	
+CPU_Freq[652800]: 0.0760729	0.0446228	
+CPU_Freq[499200]: 0.0938421	0.0541907	
+CPU_Freq[345600]: 0.130421	0.0722632	
+Cluster 1: 
+CPU_Freq[2035200]: 0.0520081	0.0245487	0.0484249	
+CPU_Freq[1881600]: 0.0556774	0.0261928	0.0481813	
+CPU_Freq[1728000]: 0.0600127	0.028137	0.0479089	
+CPU_Freq[1574400]: 0.0652134	0.0304714	0.047604	
+CPU_Freq[1420800]: 0.0715672	0.0333267	0.0472635	
+CPU_Freq[1267200]: 0.079505	0.0368988	0.0468868	
+CPU_Freq[1113600]: 0.089703	0.0414959	0.0464807	
+CPU_Freq[960000]: 0.103285	0.047632	0.0460725	
+CPU_Freq[806400]: 0.122267	0.0562328	0.0457481	
+CPU_Freq[652800]: 0.150659	0.069149	0.0457754	
+CPU_Freq[499200]: 0.19772	0.0906872	0.0470874	
+CPU_Freq[345600]: 0.290649	0.133641	0.0538398	
+
+---------- CPU Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.52908	3.3623	
+CPU_Freq[1881600]: 2.23365	2.9319	
+CPU_Freq[1728000]: 1.96223	2.54203	
+CPU_Freq[1574400]: 1.7148	2.1927	
+CPU_Freq[1420800]: 1.49138	1.8839	
+CPU_Freq[1267200]: 1.29196	1.61564	
+CPU_Freq[1113600]: 1.11655	1.38791	
+CPU_Freq[960000]: 0.965134	1.20071	
+CPU_Freq[806400]: 0.837722	1.05405	
+CPU_Freq[652800]: 0.734313	0.947923	
+CPU_Freq[499200]: 0.654907	0.882329	
+CPU_Freq[345600]: 0.599502	0.857268	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.88534	1.72174	
+CPU_Freq[1881600]: 1.09176	1.66069	1.47669	
+CPU_Freq[1728000]: 0.953273	1.45376	1.25951	
+CPU_Freq[1574400]: 0.827964	1.26453	1.0702	
+CPU_Freq[1420800]: 0.715838	1.09303	0.90876	
+CPU_Freq[1267200]: 0.616894	0.939232	0.775198	
+CPU_Freq[1113600]: 0.531132	0.803151	0.669509	
+CPU_Freq[960000]: 0.458552	0.684784	0.591695	
+CPU_Freq[806400]: 0.399154	0.584131	0.541753	
+CPU_Freq[652800]: 0.352938	0.501191	0.519686	
+CPU_Freq[499200]: 0.319904	0.435965	0.525492	
+CPU_Freq[345600]: 0.300052	0.388452	0.559172	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.52908	3.3623	
+CPU_Freq[1881600]: 2.23365	2.9319	
+CPU_Freq[1728000]: 1.96223	2.54203	
+CPU_Freq[1574400]: 1.7148	2.1927	
+CPU_Freq[1420800]: 1.49138	1.8839	
+CPU_Freq[1267200]: 1.29196	1.61564	
+CPU_Freq[1113600]: 1.11655	1.38791	
+CPU_Freq[960000]: 0.965134	1.20071	
+CPU_Freq[806400]: 0.837722	1.05405	
+CPU_Freq[652800]: 0.734313	0.947923	
+CPU_Freq[499200]: 0.654907	0.882329	
+CPU_Freq[345600]: 0.599502	0.857268	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.88534	1.72174	
+CPU_Freq[1881600]: 1.09176	1.66069	1.47669	
+CPU_Freq[1728000]: 0.953273	1.45376	1.25951	
+CPU_Freq[1574400]: 0.827964	1.26453	1.0702	
+CPU_Freq[1420800]: 0.715838	1.09303	0.90876	
+CPU_Freq[1267200]: 0.616894	0.939232	0.775198	
+CPU_Freq[1113600]: 0.531132	0.803151	0.669509	
+CPU_Freq[960000]: 0.458552	0.684784	0.591695	
+CPU_Freq[806400]: 0.399154	0.584131	0.541753	
+CPU_Freq[652800]: 0.352938	0.501191	0.519686	
+CPU_Freq[499200]: 0.319904	0.435965	0.525492	
+CPU_Freq[345600]: 0.300052	0.388452	0.559172	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.52908	3.3623	
+CPU_Freq[1881600]: 2.23365	2.9319	
+CPU_Freq[1728000]: 1.96223	2.54203	
+CPU_Freq[1574400]: 1.7148	2.1927	
+CPU_Freq[1420800]: 1.49138	1.8839	
+CPU_Freq[1267200]: 1.29196	1.61564	
+CPU_Freq[1113600]: 1.11655	1.38791	
+CPU_Freq[960000]: 0.965134	1.20071	
+CPU_Freq[806400]: 0.837722	1.05405	
+CPU_Freq[652800]: 0.734313	0.947923	
+CPU_Freq[499200]: 0.654907	0.882329	
+CPU_Freq[345600]: 0.599502	0.857268	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.88534	1.72174	
+CPU_Freq[1881600]: 1.09176	1.66069	1.47669	
+CPU_Freq[1728000]: 0.953273	1.45376	1.25951	
+CPU_Freq[1574400]: 0.827964	1.26453	1.0702	
+CPU_Freq[1420800]: 0.715838	1.09303	0.90876	
+CPU_Freq[1267200]: 0.616894	0.939232	0.775198	
+CPU_Freq[1113600]: 0.531132	0.803151	0.669509	
+CPU_Freq[960000]: 0.458552	0.684784	0.591695	
+CPU_Freq[806400]: 0.399154	0.584131	0.541753	
+CPU_Freq[652800]: 0.352938	0.501191	0.519686	
+CPU_Freq[499200]: 0.319904	0.435965	0.525492	
+CPU_Freq[345600]: 0.300052	0.388452	0.559172	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.52908	3.3623	
+CPU_Freq[1881600]: 2.23365	2.9319	
+CPU_Freq[1728000]: 1.96223	2.54203	
+CPU_Freq[1574400]: 1.7148	2.1927	
+CPU_Freq[1420800]: 1.49138	1.8839	
+CPU_Freq[1267200]: 1.29196	1.61564	
+CPU_Freq[1113600]: 1.11655	1.38791	
+CPU_Freq[960000]: 0.965134	1.20071	
+CPU_Freq[806400]: 0.837722	1.05405	
+CPU_Freq[652800]: 0.734313	0.947923	
+CPU_Freq[499200]: 0.654907	0.882329	
+CPU_Freq[345600]: 0.599502	0.857268	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.88534	1.72174	
+CPU_Freq[1881600]: 1.09176	1.66069	1.47669	
+CPU_Freq[1728000]: 0.953273	1.45376	1.25951	
+CPU_Freq[1574400]: 0.827964	1.26453	1.0702	
+CPU_Freq[1420800]: 0.715838	1.09303	0.90876	
+CPU_Freq[1267200]: 0.616894	0.939232	0.775198	
+CPU_Freq[1113600]: 0.531132	0.803151	0.669509	
+CPU_Freq[960000]: 0.458552	0.684784	0.591695	
+CPU_Freq[806400]: 0.399154	0.584131	0.541753	
+CPU_Freq[652800]: 0.352938	0.501191	0.519686	
+CPU_Freq[499200]: 0.319904	0.435965	0.525492	
+CPU_Freq[345600]: 0.300052	0.388452	0.559172	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.52908	3.3623	
+CPU_Freq[1881600]: 2.23365	2.9319	
+CPU_Freq[1728000]: 1.96223	2.54203	
+CPU_Freq[1574400]: 1.7148	2.1927	
+CPU_Freq[1420800]: 1.49138	1.8839	
+CPU_Freq[1267200]: 1.29196	1.61564	
+CPU_Freq[1113600]: 1.11655	1.38791	
+CPU_Freq[960000]: 0.965134	1.20071	
+CPU_Freq[806400]: 0.837722	1.05405	
+CPU_Freq[652800]: 0.734313	0.947923	
+CPU_Freq[499200]: 0.654907	0.882329	
+CPU_Freq[345600]: 0.599502	0.857268	
+Cluster 1: 
+CPU_Freq[2035200]: 1.24344	1.88534	1.72174	
+CPU_Freq[1881600]: 1.09176	1.66069	1.47669	
+CPU_Freq[1728000]: 0.953273	1.45376	1.25951	
+CPU_Freq[1574400]: 0.827964	1.26453	1.0702	
+CPU_Freq[1420800]: 0.715838	1.09303	0.90876	
+CPU_Freq[1267200]: 0.616894	0.939232	0.775198	
+CPU_Freq[1113600]: 0.531132	0.803151	0.669509	
+CPU_Freq[960000]: 0.458552	0.684784	0.591695	
+CPU_Freq[806400]: 0.399154	0.584131	0.541753	
+CPU_Freq[652800]: 0.352938	0.501191	0.519686	
+CPU_Freq[499200]: 0.319904	0.435965	0.525492	
+CPU_Freq[345600]: 0.300052	0.388452	0.559172	
+
+---------- Memory Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 3.01739	5.40311	
+CPU_Freq[1881600]: 2.91913	5.14066	
+CPU_Freq[1728000]: 2.81803	4.87414	
+CPU_Freq[1574400]: 2.71409	4.60353	
+CPU_Freq[1420800]: 2.6073	4.32885	
+CPU_Freq[1267200]: 2.49767	4.05009	
+CPU_Freq[1113600]: 2.3852	3.76724	
+CPU_Freq[960000]: 2.26989	3.48032	
+CPU_Freq[806400]: 2.15174	3.18932	
+CPU_Freq[652800]: 2.03075	2.89424	
+CPU_Freq[499200]: 1.90692	2.59508	
+CPU_Freq[345600]: 1.78024	2.29184	
+Cluster 1: 
+CPU_Freq[2035200]: 1.16165	1.13748	2.93	
+CPU_Freq[1881600]: 1.1632	1.14278	2.88175	
+CPU_Freq[1728000]: 1.16291	1.14519	2.8316	
+CPU_Freq[1574400]: 1.16078	1.14469	2.77957	
+CPU_Freq[1420800]: 1.15681	1.14128	2.72564	
+CPU_Freq[1267200]: 1.151	1.13497	2.66983	
+CPU_Freq[1113600]: 1.14336	1.12575	2.61213	
+CPU_Freq[960000]: 1.13387	1.11364	2.55254	
+CPU_Freq[806400]: 1.12255	1.09861	2.49107	
+CPU_Freq[652800]: 1.10939	1.08068	2.4277	
+CPU_Freq[499200]: 1.09439	1.05985	2.36245	
+CPU_Freq[345600]: 1.07755	1.03611	2.29531	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.68633	5.12793	
+CPU_Freq[1881600]: 2.58795	4.86635	
+CPU_Freq[1728000]: 2.48672	4.60069	
+CPU_Freq[1574400]: 2.38266	4.33095	
+CPU_Freq[1420800]: 2.27575	4.05712	
+CPU_Freq[1267200]: 2.166	3.77922	
+CPU_Freq[1113600]: 2.05341	3.49725	
+CPU_Freq[960000]: 1.93798	3.21119	
+CPU_Freq[806400]: 1.8197	2.92105	
+CPU_Freq[652800]: 1.69859	2.62683	
+CPU_Freq[499200]: 1.57463	2.32853	
+CPU_Freq[345600]: 1.44784	2.02616	
+Cluster 1: 
+CPU_Freq[2035200]: 0.737039	0.731397	2.55308	
+CPU_Freq[1881600]: 0.738587	0.736709	2.50482	
+CPU_Freq[1728000]: 0.738295	0.739117	2.45467	
+CPU_Freq[1574400]: 0.736166	0.73862	2.40263	
+CPU_Freq[1420800]: 0.732197	0.735219	2.3487	
+CPU_Freq[1267200]: 0.72639	0.728913	2.29289	
+CPU_Freq[1113600]: 0.718744	0.719702	2.23518	
+CPU_Freq[960000]: 0.709259	0.707587	2.17559	
+CPU_Freq[806400]: 0.697936	0.692568	2.11411	
+CPU_Freq[652800]: 0.684773	0.674644	2.05074	
+CPU_Freq[499200]: 0.669772	0.653815	1.98548	
+CPU_Freq[345600]: 0.652933	0.630082	1.91834	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.46689	4.95533	
+CPU_Freq[1881600]: 2.36838	4.69462	
+CPU_Freq[1728000]: 2.26703	4.42983	
+CPU_Freq[1574400]: 2.16284	4.16096	
+CPU_Freq[1420800]: 2.05581	3.88801	
+CPU_Freq[1267200]: 1.94594	3.61099	
+CPU_Freq[1113600]: 1.83322	3.32988	
+CPU_Freq[960000]: 1.71767	3.04469	
+CPU_Freq[806400]: 1.59927	2.75543	
+CPU_Freq[652800]: 1.47803	2.46208	
+CPU_Freq[499200]: 1.35396	2.16466	
+CPU_Freq[345600]: 1.22703	1.86316	
+Cluster 1: 
+CPU_Freq[2035200]: 0.442528	0.445536	2.29943	
+CPU_Freq[1881600]: 0.444075	0.450852	2.25116	
+CPU_Freq[1728000]: 0.443784	0.453264	2.20101	
+CPU_Freq[1574400]: 0.441655	0.452772	2.14897	
+CPU_Freq[1420800]: 0.437686	0.449375	2.09503	
+CPU_Freq[1267200]: 0.431879	0.443073	2.03921	
+CPU_Freq[1113600]: 0.424233	0.433867	1.9815	
+CPU_Freq[960000]: 0.414748	0.421757	1.92191	
+CPU_Freq[806400]: 0.403425	0.406742	1.86042	
+CPU_Freq[652800]: 0.390262	0.388822	1.79705	
+CPU_Freq[499200]: 0.375261	0.367998	1.73179	
+CPU_Freq[345600]: 0.358421	0.344269	1.66464	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.36315	4.88875	
+CPU_Freq[1881600]: 2.26452	4.62891	
+CPU_Freq[1728000]: 2.16305	4.365	
+CPU_Freq[1574400]: 2.05873	4.097	
+CPU_Freq[1420800]: 1.95158	3.82493	
+CPU_Freq[1267200]: 1.84158	3.54877	
+CPU_Freq[1113600]: 1.72875	3.26854	
+CPU_Freq[960000]: 1.61307	2.98423	
+CPU_Freq[806400]: 1.49455	2.69583	
+CPU_Freq[652800]: 1.37318	2.40336	
+CPU_Freq[499200]: 1.24898	2.10681	
+CPU_Freq[345600]: 1.12194	1.80618	
+Cluster 1: 
+CPU_Freq[2035200]: 0.283293	0.284818	2.17369	
+CPU_Freq[1881600]: 0.28484	0.290139	2.12541	
+CPU_Freq[1728000]: 0.284549	0.292556	2.07525	
+CPU_Freq[1574400]: 0.28242	0.292068	2.02321	
+CPU_Freq[1420800]: 0.278451	0.288675	1.96927	
+CPU_Freq[1267200]: 0.272644	0.282378	1.91344	
+CPU_Freq[1113600]: 0.264998	0.273176	1.85573	
+CPU_Freq[960000]: 0.255513	0.26107	1.79613	
+CPU_Freq[806400]: 0.24419	0.24606	1.73464	
+CPU_Freq[652800]: 0.231027	0.228145	1.67126	
+CPU_Freq[499200]: 0.216026	0.207325	1.60599	
+CPU_Freq[345600]: 0.199186	0.183601	1.53884	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 2.37348	4.92603	
+CPU_Freq[1881600]: 2.27473	4.66704	
+CPU_Freq[1728000]: 2.17314	4.40398	
+CPU_Freq[1574400]: 2.06871	4.13683	
+CPU_Freq[1420800]: 1.96143	3.86561	
+CPU_Freq[1267200]: 1.85132	3.59031	
+CPU_Freq[1113600]: 1.73836	3.31093	
+CPU_Freq[960000]: 1.62256	3.02747	
+CPU_Freq[806400]: 1.50392	2.73993	
+CPU_Freq[652800]: 1.38244	2.44831	
+CPU_Freq[499200]: 1.25811	2.15261	
+CPU_Freq[345600]: 1.13095	1.85283	
+Cluster 1: 
+CPU_Freq[2035200]: 0.258332	0.248637	2.17431	
+CPU_Freq[1881600]: 0.25988	0.253962	2.12603	
+CPU_Freq[1728000]: 0.259589	0.256383	2.07587	
+CPU_Freq[1574400]: 0.257459	0.2559	2.02381	
+CPU_Freq[1420800]: 0.253491	0.252512	1.96987	
+CPU_Freq[1267200]: 0.247684	0.246219	1.91404	
+CPU_Freq[1113600]: 0.240038	0.237022	1.85633	
+CPU_Freq[960000]: 0.230553	0.22492	1.79672	
+CPU_Freq[806400]: 0.219229	0.209914	1.73523	
+CPU_Freq[652800]: 0.206067	0.192003	1.67184	
+CPU_Freq[499200]: 0.191066	0.171187	1.60657	
+CPU_Freq[345600]: 0.174226	0.147468	1.53941	
+
+[Congratulations!] All the training Phase finished. Training finished time: 1687720328272. Set the CPU frequency of all clusters back to the highest frequency
+[DEBUG] Work stealing from cluster 1 to cluster 0
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 48.1297% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 51.8703% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 62.7366% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 37.2634% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.4691% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.5309% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.6105% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.3895% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.2168% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.7832% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 56.7342% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 43.2658% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.3351% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.6649% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.8674% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.1326% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.3574% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.6426% of tasks should be scheduled to cluster 1
+[DEBUG] Work stealing from cluster 1 to cluster 0
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.7721% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.2279% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.3296% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.6704% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.8582% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.1418% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7103% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2897% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.4471% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.5529% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.6729% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.3271% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.4005% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.5994% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7661% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2339% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.2524% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.7476% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.9099% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.0901% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.2231% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.7769% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.0097% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.9903% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.3413% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.6587% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.4971% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.5029% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.9993% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.0007% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.4788% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.5212% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.4224% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.5777% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 49.4789% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 50.5211% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.5275% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.4725% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.3396% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.6604% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <2>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.9257% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.0743% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.0001% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.9999% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.2963% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.7037% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.8522% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.1478% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.1995% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.8005% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.906% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.094% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.0647% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.9353% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 54.6391% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 45.3609% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.6667% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.3333% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7839% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2161% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.9289% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.0711% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 48.4424% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 51.5576% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.9979% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.0021% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.1743% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.8257% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.5523% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.4477% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7686% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2314% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.9088% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.0912% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.875% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.125% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 53.6061% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 46.3939% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 48.6756% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 51.3244% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 56.5238% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 43.4762% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 50.5923% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 49.4077% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.6816% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.3184% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.521% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.479% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 51.8539% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 48.1461% of tasks should be scheduled to cluster 1
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <2> and <1>
+[DEBUG] Using <2> cores in cluster 1 and <4> cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 52.7851% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 47.2149% of tasks should be scheduled to cluster 1
+Thread 4 sleeps for 145228 ms. 
+Task type: 0: Thread 4 with width 1 completes 1253 tasks.
+Task type: 0: Thread 4 with width 2 completes 3 tasks.
+Task type: 0: Thread 4 with width 4 completes 13 tasks.
+Task type: 1: Thread 4 with width 1 completes 0 tasks.
+Task type: 1: Thread 4 with width 2 completes 0 tasks.
+Task type: 1: Thread 4 with width 4 completes 0 tasks.
+Task type: 2: Thread 4 with width 1 completes 0 tasks.
+Task type: 2: Thread 4 with width 2 completes 0 tasks.
+Task type: 2: Thread 4 with width 4 completes 0 tasks.
+Task type: 3: Thread 4 with width 1 completes 0 tasks.
+Task type: 3: Thread 4 with width 2 completes 0 tasks.
+Task type: 3: Thread 4 with width 4 completes 0 tasks.
+Task type: 4: Thread 4 with width 1 completes 0 tasks.
+Task type: 4: Thread 4 with width 2 completes 0 tasks.
+Task type: 4: Thread 4 with width 4 completes 0 tasks.
+Task type: 5: Thread 4 with width 1 completes 0 tasks.
+Task type: 5: Thread 4 with width 2 completes 0 tasks.
+Task type: 5: Thread 4 with width 4 completes 0 tasks.
+The total execution time of thread 4 is 75.8637 s.
+Thread 5 sleeps for 142888 ms. 
+Task type: 0: Thread 5 with width 1 completes 1287 tasks.
+Task type: 0: Thread 5 with width 2 completes 3 tasks.
+Task type: 0: Thread 5 with width 4 completes 13 tasks.
+Task type: 1: Thread 5 with width 1 completes 0 tasks.
+Task type: 1: Thread 5 with width 2 completes 0 tasks.
+Task type: 1: Thread 5 with width 4 completes 0 tasks.
+Task type: 2: Thread 5 with width 1 completes 0 tasks.
+Task type: 2: Thread 5 with width 2 completes 0 tasks.
+Task type: 2: Thread 5 with width 4 completes 0 tasks.
+Task type: 3: Thread 5 with width 1 completes 0 tasks.
+Task type: 3: Thread 5 with width 2 completes 0 tasks.
+Task type: 3: Thread 5 with width 4 completes 0 tasks.
+Task type: 4: Thread 5 with width 1 completes 0 tasks.
+Task type: 4: Thread 5 with width 2 completes 0 tasks.
+Task type: 4: Thread 5 with width 4 completes 0 tasks.
+Task type: 5: Thread 5 with width 1 completes 0 tasks.
+Task type: 5: Thread 5 with width 2 completes 0 tasks.
+Task type: 5: Thread 5 with width 4 completes 0 tasks.
+The total execution time of thread 5 is 78.1503 s.
+Thread 0 sleeps for 21847 ms. 
+Task type: 0: Thread 0 with width 1 completes 933 tasks.
+Task type: 0: Thread 0 with width 2 completes 12714 tasks.
+Task type: 0: Thread 0 with width 4 completes 0 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 1: Thread 0 with width 2 completes 0 tasks.
+Task type: 1: Thread 0 with width 4 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 2 completes 0 tasks.
+Task type: 2: Thread 0 with width 4 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 2 completes 0 tasks.
+Task type: 3: Thread 0 with width 4 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 2 completes 0 tasks.
+Task type: 4: Thread 0 with width 4 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 2 completes 0 tasks.
+Task type: 5: Thread 0 with width 4 completes 0 tasks.
+The total execution time of thread 0 is 198.749 s.
+Thread 1 sleeps for 19858 ms. 
+Task type: 0: Thread 1 with width 1 completes 1026 tasks.
+Task type: 0: Thread 1 with width 2 completes 12714 tasks.
+Task type: 0: Thread 1 with width 4 completes 0 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 1: Thread 1 with width 2 completes 0 tasks.
+Task type: 1: Thread 1 with width 4 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 2 completes 0 tasks.
+Task type: 2: Thread 1 with width 4 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 2 completes 0 tasks.
+Task type: 3: Thread 1 with width 4 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 2 completes 0 tasks.
+Task type: 4: Thread 1 with width 4 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 2 completes 0 tasks.
+Task type: 5: Thread 1 with width 4 completes 0 tasks.
+The total execution time of thread 1 is 201.022 s.
+Thread 3 sleeps for 139287 ms. 
+Task type: 0: Thread 3 with width 1 completes 1294 tasks.
+Task type: 0: Thread 3 with width 2 completes 98 tasks.
+Task type: 0: Thread 3 with width 4 completes 13 tasks.
+Task type: 1: Thread 3 with width 1 completes 0 tasks.
+Task type: 1: Thread 3 with width 2 completes 0 tasks.
+Task type: 1: Thread 3 with width 4 completes 0 tasks.
+Task type: 2: Thread 3 with width 1 completes 0 tasks.
+Task type: 2: Thread 3 with width 2 completes 0 tasks.
+Task type: 2: Thread 3 with width 4 completes 0 tasks.
+Task type: 3: Thread 3 with width 1 completes 0 tasks.
+Task type: 3: Thread 3 with width 2 completes 0 tasks.
+Task type: 3: Thread 3 with width 4 completes 0 tasks.
+Task type: 4: Thread 3 with width 1 completes 0 tasks.
+Task type: 4: Thread 3 with width 2 completes 0 tasks.
+Task type: 4: Thread 3 with width 4 completes 0 tasks.
+Task type: 5: Thread 3 with width 1 completes 0 tasks.
+Task type: 5: Thread 3 with width 2 completes 0 tasks.
+Task type: 5: Thread 3 with width 4 completes 0 tasks.
+The total execution time of thread 3 is 81.7814 s.
+Thread 2 sleeps for 131347 ms. 
+Task type: 0: Thread 2 with width 1 completes 1379 tasks.
+Task type: 0: Thread 2 with width 2 completes 98 tasks.
+Task type: 0: Thread 2 with width 4 completes 13 tasks.
+Task type: 1: Thread 2 with width 1 completes 0 tasks.
+Task type: 1: Thread 2 with width 2 completes 0 tasks.
+Task type: 1: Thread 2 with width 4 completes 0 tasks.
+Task type: 2: Thread 2 with width 1 completes 0 tasks.
+Task type: 2: Thread 2 with width 2 completes 0 tasks.
+Task type: 2: Thread 2 with width 4 completes 0 tasks.
+Task type: 3: Thread 2 with width 1 completes 0 tasks.
+Task type: 3: Thread 2 with width 2 completes 0 tasks.
+Task type: 3: Thread 2 with width 4 completes 0 tasks.
+Task type: 4: Thread 2 with width 1 completes 0 tasks.
+Task type: 4: Thread 2 with width 2 completes 0 tasks.
+Task type: 4: Thread 2 with width 4 completes 0 tasks.
+Task type: 5: Thread 2 with width 1 completes 0 tasks.
+Task type: 5: Thread 2 with width 2 completes 0 tasks.
+Task type: 5: Thread 2 with width 4 completes 0 tasks.
+The total execution time of thread 2 is 89.6534 s.
+20000,4,1687720326937	1687720549151,222.214,90.0035
+Total number of steals across clusters: 2
+
+

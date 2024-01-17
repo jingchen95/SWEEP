@@ -1,0 +1,126 @@
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose RWSS scheduler ---------------------
+Thread 1 sleeps for 34 ms. 
+Task type: 0: Thread 1 with width 1 completes 1326 tasks.
+Task type: 0: Thread 1 with width 2 completes 0 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 1: Thread 1 with width 2 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 2 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 2 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 2 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 2 completes 0 tasks.
+The total execution time of thread 1 is 151.567 s.
+Thread 0 sleeps for 34 ms. 
+Task type: 0: Thread 0 with width 1 completes 981 tasks.
+Task type: 0: Thread 0 with width 2 completes 0 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 1: Thread 0 with width 2 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 2 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 2 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 2 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 2 completes 0 tasks.
+The total execution time of thread 0 is 151.571 s.
+Thread 3 sleeps for 0 ms. 
+Task type: 0: Thread 3 with width 1 completes 1355 tasks.
+Task type: 0: Thread 3 with width 2 completes 0 tasks.
+Task type: 1: Thread 3 with width 1 completes 0 tasks.
+Task type: 1: Thread 3 with width 2 completes 0 tasks.
+Task type: 2: Thread 3 with width 1 completes 0 tasks.
+Task type: 2: Thread 3 with width 2 completes 0 tasks.
+Task type: 3: Thread 3 with width 1 completes 0 tasks.
+Task type: 3: Thread 3 with width 2 completes 0 tasks.
+Task type: 4: Thread 3 with width 1 completes 0 tasks.
+Task type: 4: Thread 3 with width 2 completes 0 tasks.
+Task type: 5: Thread 3 with width 1 completes 0 tasks.
+Task type: 5: Thread 3 with width 2 completes 0 tasks.
+The total execution time of thread 3 is 151.61 s.
+Thread 2 sleeps for 62 ms. 
+Task type: 0: Thread 2 with width 1 completes 1338 tasks.
+Task type: 0: Thread 2 with width 2 completes 0 tasks.
+Task type: 1: Thread 2 with width 1 completes 0 tasks.
+Task type: 1: Thread 2 with width 2 completes 0 tasks.
+Task type: 2: Thread 2 with width 1 completes 0 tasks.
+Task type: 2: Thread 2 with width 2 completes 0 tasks.
+Task type: 3: Thread 2 with width 1 completes 0 tasks.
+Task type: 3: Thread 2 with width 2 completes 0 tasks.
+Task type: 4: Thread 2 with width 1 completes 0 tasks.
+Task type: 4: Thread 2 with width 2 completes 0 tasks.
+Task type: 5: Thread 2 with width 1 completes 0 tasks.
+Task type: 5: Thread 2 with width 2 completes 0 tasks.
+The total execution time of thread 2 is 151.535 s.
+5000,4,1689169040639	1689169192304,151.665,32.9675
+Total number of steals across clusters: 0
+Total number of steals: 4019
+
+
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose RWSS scheduler ---------------------
+Thread 1 sleeps for 54 ms. 
+Task type: 0: Thread 1 with width 1 completes 1304 tasks.
+Task type: 0: Thread 1 with width 2 completes 0 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 1: Thread 1 with width 2 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 2 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 2 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 2 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 2 completes 0 tasks.
+The total execution time of thread 1 is 151.229 s.
+Thread 0 sleeps for 70 ms. 
+Task type: 0: Thread 0 with width 1 completes 999 tasks.
+Task type: 0: Thread 0 with width 2 completes 0 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 1: Thread 0 with width 2 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 2 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 2 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 2 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 2 completes 0 tasks.
+The total execution time of thread 0 is 151.225 s.
+Thread 2 sleeps for 42 ms. 
+Task type: 0: Thread 2 with width 1 completes 1323 tasks.
+Task type: 0: Thread 2 with width 2 completes 0 tasks.
+Task type: 1: Thread 2 with width 1 completes 0 tasks.
+Task type: 1: Thread 2 with width 2 completes 0 tasks.
+Task type: 2: Thread 2 with width 1 completes 0 tasks.
+Task type: 2: Thread 2 with width 2 completes 0 tasks.
+Task type: 3: Thread 2 with width 1 completes 0 tasks.
+Task type: 3: Thread 2 with width 2 completes 0 tasks.
+Task type: 4: Thread 2 with width 1 completes 0 tasks.
+Task type: 4: Thread 2 with width 2 completes 0 tasks.
+Task type: 5: Thread 2 with width 1 completes 0 tasks.
+Task type: 5: Thread 2 with width 2 completes 0 tasks.
+The total execution time of thread 2 is 151.246 s.
+Thread 3 sleeps for 103 ms. 
+Task type: 0: Thread 3 with width 1 completes 1374 tasks.
+Task type: 0: Thread 3 with width 2 completes 0 tasks.
+Task type: 1: Thread 3 with width 1 completes 0 tasks.
+Task type: 1: Thread 3 with width 2 completes 0 tasks.
+Task type: 2: Thread 3 with width 1 completes 0 tasks.
+Task type: 2: Thread 3 with width 2 completes 0 tasks.
+Task type: 3: Thread 3 with width 1 completes 0 tasks.
+Task type: 3: Thread 3 with width 2 completes 0 tasks.
+Task type: 4: Thread 3 with width 1 completes 0 tasks.
+Task type: 4: Thread 3 with width 2 completes 0 tasks.
+Task type: 5: Thread 3 with width 1 completes 0 tasks.
+Task type: 5: Thread 3 with width 2 completes 0 tasks.
+The total execution time of thread 3 is 151.176 s.
+5000,4,1689169203838	1689169355189,151.35,33.0359
+Total number of steals across clusters: 0
+Total number of steals: 4001
+
+

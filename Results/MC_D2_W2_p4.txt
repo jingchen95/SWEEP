@@ -1,0 +1,23 @@
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose RWSS scheduler ---------------------
+Thread 0 sleeps for 0 ms. 
+Task type: 0: Thread 0 with width 1 completes 0 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+The total execution time of thread 0 is 266.411 s.
+Thread 1 sleeps for 0 ms. 
+Task type: 0: Thread 1 with width 1 completes 0 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+The total execution time of thread 1 is 266.383 s.
+5000,4,1689170314778	1689170581630,266.853,18.7369
+Total number of steals across clusters: 0
+Total number of steals: 0
+
+

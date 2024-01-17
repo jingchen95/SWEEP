@@ -1,0 +1,552 @@
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose JOSS scheduler ---------------------
+[Warning] CP->Memory-boundness (ClusterA) is smaller than 0!
+CP: Training Phase finished. Predicted execution time and power results for the kernel tasks: 
+
+---------- Execution Time Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0260761	0.0142256	
+CPU_Freq[1881600]: 0.028842	0.0149063	
+CPU_Freq[1728000]: 0.0311862	0.0161516	
+CPU_Freq[1574400]: 0.0340023	0.0176399	
+CPU_Freq[1420800]: 0.0374487	0.01945	
+CPU_Freq[1267200]: 0.041763	0.0216989	
+CPU_Freq[1113600]: 0.0478766	0.0247188	
+CPU_Freq[960000]: 0.0547445	0.0283557	
+CPU_Freq[806400]: 0.0651658	0.033586	
+CPU_Freq[652800]: 0.0808453	0.0412777	
+CPU_Freq[499200]: 0.107064	0.0537026	
+CPU_Freq[345600]: 0.15959	0.077172	
+Cluster 1: 
+CPU_Freq[2035200]: 0.116983	0.0595666	0.0288157	
+CPU_Freq[1881600]: 0.116324	0.0573804	0.0289345	
+CPU_Freq[1728000]: 0.118115	0.0577883	0.0291112	
+CPU_Freq[1574400]: 0.120302	0.0583046	0.0293443	
+CPU_Freq[1420800]: 0.123032	0.0589746	0.0296602	
+CPU_Freq[1267200]: 0.126528	0.0598715	0.030102	
+CPU_Freq[1113600]: 0.116702	0.0596552	0.0311765	
+CPU_Freq[960000]: 0.137561	0.0629451	0.0317304	
+CPU_Freq[806400]: 0.146947	0.0657993	0.0333463	
+CPU_Freq[652800]: 0.161896	0.0706985	0.0362601	
+CPU_Freq[499200]: 0.188926	0.0803782	0.0423193	
+CPU_Freq[345600]: 0.249699	0.104612	0.0583214	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0267989	0.0145481	
+CPU_Freq[1881600]: 0.0287648	0.0155977	
+CPU_Freq[1728000]: 0.0310904	0.016834	
+CPU_Freq[1574400]: 0.0338842	0.0183116	
+CPU_Freq[1420800]: 0.0373034	0.0201086	
+CPU_Freq[1267200]: 0.041584	0.0223412	
+CPU_Freq[1113600]: 0.0470977	0.0251897	
+CPU_Freq[960000]: 0.0544657	0.0289498	
+CPU_Freq[806400]: 0.0648086	0.0341422	
+CPU_Freq[652800]: 0.0803728	0.0417782	
+CPU_Freq[499200]: 0.106405	0.0541132	
+CPU_Freq[345600]: 0.15858	0.0774127	
+Cluster 1: 
+CPU_Freq[2035200]: 0.123965	0.0624606	0.0312538	
+CPU_Freq[1881600]: 0.125418	0.0627563	0.03137	
+CPU_Freq[1728000]: 0.127163	0.0631249	0.0315224	
+CPU_Freq[1574400]: 0.129295	0.0635942	0.0317266	
+CPU_Freq[1420800]: 0.131957	0.0642071	0.0320071	
+CPU_Freq[1267200]: 0.13537	0.065033	0.0324051	
+CPU_Freq[1113600]: 0.139893	0.0661906	0.0329923	
+CPU_Freq[960000]: 0.146154	0.0678966	0.0339037	
+CPU_Freq[806400]: 0.155345	0.0705857	0.0354176	
+CPU_Freq[652800]: 0.170007	0.0752422	0.0381814	
+CPU_Freq[499200]: 0.196574	0.0845298	0.0439983	
+CPU_Freq[345600]: 0.256472	0.108023	0.0595427	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0268521	0.0155383	
+CPU_Freq[1881600]: 0.0287955	0.0165771	
+CPU_Freq[1728000]: 0.0310946	0.0178007	
+CPU_Freq[1574400]: 0.0338569	0.0192629	
+CPU_Freq[1420800]: 0.0372376	0.0210414	
+CPU_Freq[1267200]: 0.0414704	0.023251	
+CPU_Freq[1113600]: 0.0469233	0.0260701	
+CPU_Freq[960000]: 0.0542108	0.0297913	
+CPU_Freq[806400]: 0.0644426	0.0349301	
+CPU_Freq[652800]: 0.0798435	0.0424872	
+CPU_Freq[499200]: 0.105612	0.0546948	
+CPU_Freq[345600]: 0.157288	0.0777537	
+Cluster 1: 
+CPU_Freq[2035200]: 0.137019	0.0702571	0.034799	
+CPU_Freq[1881600]: 0.138417	0.0705056	0.034886	
+CPU_Freq[1728000]: 0.140096	0.0708185	0.035004	
+CPU_Freq[1574400]: 0.142149	0.0712213	0.035167	
+CPU_Freq[1420800]: 0.144715	0.0717532	0.0353976	
+CPU_Freq[1267200]: 0.148009	0.0724787	0.0357335	
+CPU_Freq[1113600]: 0.152381	0.0735079	0.0362414	
+CPU_Freq[960000]: 0.158442	0.0750447	0.0370482	
+CPU_Freq[806400]: 0.167357	0.0774999	0.0384176	
+CPU_Freq[652800]: 0.181613	0.0818127	0.040969	
+CPU_Freq[499200]: 0.207524	0.0905448	0.0464427	
+CPU_Freq[345600]: 0.266182	0.112989	0.0613388	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.027242	0.0170296	
+CPU_Freq[1881600]: 0.0291516	0.0180521	
+CPU_Freq[1728000]: 0.0314109	0.0192564	
+CPU_Freq[1574400]: 0.0341255	0.0206957	
+CPU_Freq[1420800]: 0.0374484	0.0224462	
+CPU_Freq[1267200]: 0.0416093	0.0246211	
+CPU_Freq[1113600]: 0.0469704	0.0273959	
+CPU_Freq[960000]: 0.0541368	0.0310586	
+CPU_Freq[806400]: 0.0642013	0.0361167	
+CPU_Freq[652800]: 0.0793562	0.043555	
+CPU_Freq[499200]: 0.104728	0.0555708	
+CPU_Freq[345600]: 0.155653	0.0782673	
+Cluster 1: 
+CPU_Freq[2035200]: 0.156936	0.082296	0.0402843	
+CPU_Freq[1881600]: 0.158249	0.0824733	0.0403274	
+CPU_Freq[1728000]: 0.159829	0.0827024	0.0403935	
+CPU_Freq[1574400]: 0.161764	0.0830049	0.0404946	
+CPU_Freq[1420800]: 0.164186	0.0834151	0.0406499	
+CPU_Freq[1267200]: 0.167301	0.0839891	0.0408922	
+CPU_Freq[1113600]: 0.171445	0.0848252	0.0412808	
+CPU_Freq[960000]: 0.177205	0.086107	0.04193	
+CPU_Freq[806400]: 0.185704	0.0882101	0.0430818	
+CPU_Freq[652800]: 0.199348	0.0920051	0.0453133	
+CPU_Freq[499200]: 0.22427	0.0999008	0.0502701	
+CPU_Freq[345600]: 0.281062	0.120765	0.0641899	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.0286691	0.0194521	
+CPU_Freq[1881600]: 0.0305238	0.0204481	
+CPU_Freq[1728000]: 0.0327184	0.0216212	
+CPU_Freq[1574400]: 0.0353557	0.0230231	
+CPU_Freq[1420800]: 0.0385845	0.0247282	
+CPU_Freq[1267200]: 0.0426286	0.0268466	
+CPU_Freq[1113600]: 0.0478406	0.0295495	
+CPU_Freq[960000]: 0.0548103	0.0331172	
+CPU_Freq[806400]: 0.0646031	0.0380441	
+CPU_Freq[652800]: 0.0793584	0.0452895	
+CPU_Freq[499200]: 0.104084	0.0569937	
+CPU_Freq[345600]: 0.15379	0.0791015	
+Cluster 1: 
+CPU_Freq[2035200]: 0.189945	0.102613	0.0495689	
+CPU_Freq[1881600]: 0.191121	0.102675	0.0495405	
+CPU_Freq[1728000]: 0.19254	0.102768	0.0495225	
+CPU_Freq[1574400]: 0.194283	0.102907	0.0495231	
+CPU_Freq[1420800]: 0.196472	0.10312	0.049556	
+CPU_Freq[1267200]: 0.199296	0.103448	0.0496463	
+CPU_Freq[1113600]: 0.203069	0.10397	0.049841	
+CPU_Freq[960000]: 0.20834	0.104838	0.0502344	
+CPU_Freq[806400]: 0.216163	0.106369	0.0510327	
+CPU_Freq[652800]: 0.228813	0.109323	0.0527445	
+CPU_Freq[499200]: 0.25213	0.11586	0.0568616	
+CPU_Freq[345600]: 0.30589	0.134158	0.0691956	
+
+---------- CPU Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.25582	
+CPU_Freq[1881600]: 1.60824	2.82434	
+CPU_Freq[1728000]: 1.38386	2.4334	
+CPU_Freq[1574400]: 1.18347	2.08299	
+CPU_Freq[1420800]: 1.00709	1.77312	
+CPU_Freq[1267200]: 0.854716	1.50378	
+CPU_Freq[1113600]: 0.72634	1.27498	
+CPU_Freq[960000]: 0.621967	1.0867	
+CPU_Freq[806400]: 0.541597	0.938966	
+CPU_Freq[652800]: 0.485229	0.831762	
+CPU_Freq[499200]: 0.452863	0.765092	
+CPU_Freq[345600]: 0.4445	0.738956	
+Cluster 1: 
+CPU_Freq[2035200]: 1.09217	1.25751	1.81135	
+CPU_Freq[1881600]: 0.961462	1.09689	1.55739	
+CPU_Freq[1728000]: 0.843931	0.953976	1.3313	
+CPU_Freq[1574400]: 0.739583	0.828779	1.13308	
+CPU_Freq[1420800]: 0.648417	0.721296	0.962735	
+CPU_Freq[1267200]: 0.570432	0.631527	0.820264	
+CPU_Freq[1113600]: 0.50563	0.559471	0.705667	
+CPU_Freq[960000]: 0.45401	0.505129	0.618944	
+CPU_Freq[806400]: 0.415572	0.468501	0.560094	
+CPU_Freq[652800]: 0.390316	0.449586	0.529118	
+CPU_Freq[499200]: 0.378242	0.448385	0.526016	
+CPU_Freq[345600]: 0.37935	0.464897	0.550787	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.25582	
+CPU_Freq[1881600]: 1.60824	2.82434	
+CPU_Freq[1728000]: 1.38386	2.4334	
+CPU_Freq[1574400]: 1.18347	2.08299	
+CPU_Freq[1420800]: 1.00709	1.77312	
+CPU_Freq[1267200]: 0.854716	1.50378	
+CPU_Freq[1113600]: 0.72634	1.27498	
+CPU_Freq[960000]: 0.621967	1.0867	
+CPU_Freq[806400]: 0.541597	0.938966	
+CPU_Freq[652800]: 0.485229	0.831762	
+CPU_Freq[499200]: 0.452863	0.765092	
+CPU_Freq[345600]: 0.4445	0.738956	
+Cluster 1: 
+CPU_Freq[2035200]: 1.09217	1.25751	1.81135	
+CPU_Freq[1881600]: 0.961462	1.09689	1.55739	
+CPU_Freq[1728000]: 0.843931	0.953976	1.3313	
+CPU_Freq[1574400]: 0.739583	0.828779	1.13308	
+CPU_Freq[1420800]: 0.648417	0.721296	0.962735	
+CPU_Freq[1267200]: 0.570432	0.631527	0.820264	
+CPU_Freq[1113600]: 0.50563	0.559471	0.705667	
+CPU_Freq[960000]: 0.45401	0.505129	0.618944	
+CPU_Freq[806400]: 0.415572	0.468501	0.560094	
+CPU_Freq[652800]: 0.390316	0.449586	0.529118	
+CPU_Freq[499200]: 0.378242	0.448385	0.526016	
+CPU_Freq[345600]: 0.37935	0.464897	0.550787	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.25582	
+CPU_Freq[1881600]: 1.60824	2.82434	
+CPU_Freq[1728000]: 1.38386	2.4334	
+CPU_Freq[1574400]: 1.18347	2.08299	
+CPU_Freq[1420800]: 1.00709	1.77312	
+CPU_Freq[1267200]: 0.854716	1.50378	
+CPU_Freq[1113600]: 0.72634	1.27498	
+CPU_Freq[960000]: 0.621967	1.0867	
+CPU_Freq[806400]: 0.541597	0.938966	
+CPU_Freq[652800]: 0.485229	0.831762	
+CPU_Freq[499200]: 0.452863	0.765092	
+CPU_Freq[345600]: 0.4445	0.738956	
+Cluster 1: 
+CPU_Freq[2035200]: 1.09217	1.25751	1.81135	
+CPU_Freq[1881600]: 0.961462	1.09689	1.55739	
+CPU_Freq[1728000]: 0.843931	0.953976	1.3313	
+CPU_Freq[1574400]: 0.739583	0.828779	1.13308	
+CPU_Freq[1420800]: 0.648417	0.721296	0.962735	
+CPU_Freq[1267200]: 0.570432	0.631527	0.820264	
+CPU_Freq[1113600]: 0.50563	0.559471	0.705667	
+CPU_Freq[960000]: 0.45401	0.505129	0.618944	
+CPU_Freq[806400]: 0.415572	0.468501	0.560094	
+CPU_Freq[652800]: 0.390316	0.449586	0.529118	
+CPU_Freq[499200]: 0.378242	0.448385	0.526016	
+CPU_Freq[345600]: 0.37935	0.464897	0.550787	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.25582	
+CPU_Freq[1881600]: 1.60824	2.82434	
+CPU_Freq[1728000]: 1.38386	2.4334	
+CPU_Freq[1574400]: 1.18347	2.08299	
+CPU_Freq[1420800]: 1.00709	1.77312	
+CPU_Freq[1267200]: 0.854716	1.50378	
+CPU_Freq[1113600]: 0.72634	1.27498	
+CPU_Freq[960000]: 0.621967	1.0867	
+CPU_Freq[806400]: 0.541597	0.938966	
+CPU_Freq[652800]: 0.485229	0.831762	
+CPU_Freq[499200]: 0.452863	0.765092	
+CPU_Freq[345600]: 0.4445	0.738956	
+Cluster 1: 
+CPU_Freq[2035200]: 1.09217	1.25751	1.81135	
+CPU_Freq[1881600]: 0.961462	1.09689	1.55739	
+CPU_Freq[1728000]: 0.843931	0.953976	1.3313	
+CPU_Freq[1574400]: 0.739583	0.828779	1.13308	
+CPU_Freq[1420800]: 0.648417	0.721296	0.962735	
+CPU_Freq[1267200]: 0.570432	0.631527	0.820264	
+CPU_Freq[1113600]: 0.50563	0.559471	0.705667	
+CPU_Freq[960000]: 0.45401	0.505129	0.618944	
+CPU_Freq[806400]: 0.415572	0.468501	0.560094	
+CPU_Freq[652800]: 0.390316	0.449586	0.529118	
+CPU_Freq[499200]: 0.378242	0.448385	0.526016	
+CPU_Freq[345600]: 0.37935	0.464897	0.550787	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.85663	3.25582	
+CPU_Freq[1881600]: 1.60824	2.82434	
+CPU_Freq[1728000]: 1.38386	2.4334	
+CPU_Freq[1574400]: 1.18347	2.08299	
+CPU_Freq[1420800]: 1.00709	1.77312	
+CPU_Freq[1267200]: 0.854716	1.50378	
+CPU_Freq[1113600]: 0.72634	1.27498	
+CPU_Freq[960000]: 0.621967	1.0867	
+CPU_Freq[806400]: 0.541597	0.938966	
+CPU_Freq[652800]: 0.485229	0.831762	
+CPU_Freq[499200]: 0.452863	0.765092	
+CPU_Freq[345600]: 0.4445	0.738956	
+Cluster 1: 
+CPU_Freq[2035200]: 1.09217	1.25751	1.81135	
+CPU_Freq[1881600]: 0.961462	1.09689	1.55739	
+CPU_Freq[1728000]: 0.843931	0.953976	1.3313	
+CPU_Freq[1574400]: 0.739583	0.828779	1.13308	
+CPU_Freq[1420800]: 0.648417	0.721296	0.962735	
+CPU_Freq[1267200]: 0.570432	0.631527	0.820264	
+CPU_Freq[1113600]: 0.50563	0.559471	0.705667	
+CPU_Freq[960000]: 0.45401	0.505129	0.618944	
+CPU_Freq[806400]: 0.415572	0.468501	0.560094	
+CPU_Freq[652800]: 0.390316	0.449586	0.529118	
+CPU_Freq[499200]: 0.378242	0.448385	0.526016	
+CPU_Freq[345600]: 0.37935	0.464897	0.550787	
+
+---------- Memory Power Predictions ---------- 
+Memory Frequency: 1866000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 1.10973	3.64848	
+CPU_Freq[1881600]: 1.11684	3.51458	
+CPU_Freq[1728000]: 1.12112	3.37661	
+CPU_Freq[1574400]: 1.12255	3.23456	
+CPU_Freq[1420800]: 1.12114	3.08842	
+CPU_Freq[1267200]: 1.11689	2.93821	
+CPU_Freq[1113600]: 1.1098	2.78392	
+CPU_Freq[960000]: 1.09987	2.62555	
+CPU_Freq[806400]: 1.08709	2.4631	
+CPU_Freq[652800]: 1.07148	2.29657	
+CPU_Freq[499200]: 1.05302	2.12596	
+CPU_Freq[345600]: 1.03172	1.95127	
+Cluster 1: 
+CPU_Freq[2035200]: 2.13615	2.57876	2.68005	
+CPU_Freq[1881600]: 2.10857	2.54536	2.63693	
+CPU_Freq[1728000]: 2.07915	2.50906	2.59191	
+CPU_Freq[1574400]: 2.04789	2.46985	2.54501	
+CPU_Freq[1420800]: 2.01479	2.42774	2.49621	
+CPU_Freq[1267200]: 1.97985	2.38272	2.44553	
+CPU_Freq[1113600]: 1.94307	2.3348	2.39296	
+CPU_Freq[960000]: 1.90445	2.28397	2.3385	
+CPU_Freq[806400]: 1.864	2.23024	2.28216	
+CPU_Freq[652800]: 1.8217	2.1736	2.22392	
+CPU_Freq[499200]: 1.77757	2.11407	2.1638	
+CPU_Freq[345600]: 1.7316	2.05162	2.10179	
+Memory Frequency: 1600000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.720326	3.32351	
+CPU_Freq[1881600]: 0.72732	3.19048	
+CPU_Freq[1728000]: 0.731472	3.05337	
+CPU_Freq[1574400]: 0.732783	2.91218	
+CPU_Freq[1420800]: 0.731252	2.76691	
+CPU_Freq[1267200]: 0.72688	2.61756	
+CPU_Freq[1113600]: 0.719666	2.46413	
+CPU_Freq[960000]: 0.709612	2.30662	
+CPU_Freq[806400]: 0.696715	2.14504	
+CPU_Freq[652800]: 0.680978	1.97937	
+CPU_Freq[499200]: 0.662399	1.80962	
+CPU_Freq[345600]: 0.640978	1.6358	
+Cluster 1: 
+CPU_Freq[2035200]: 1.75332	2.20454	2.29976	
+CPU_Freq[1881600]: 1.72574	2.17114	2.25662	
+CPU_Freq[1728000]: 1.69631	2.13484	2.2116	
+CPU_Freq[1574400]: 1.66505	2.09564	2.16469	
+CPU_Freq[1420800]: 1.63195	2.05353	2.1159	
+CPU_Freq[1267200]: 1.59701	2.00852	2.06521	
+CPU_Freq[1113600]: 1.56024	1.9606	2.01264	
+CPU_Freq[960000]: 1.52162	1.90978	1.95817	
+CPU_Freq[806400]: 1.48116	1.85605	1.90182	
+CPU_Freq[652800]: 1.43887	1.79942	1.84358	
+CPU_Freq[499200]: 1.39474	1.73988	1.78345	
+CPU_Freq[345600]: 1.34876	1.67744	1.72144	
+Memory Frequency: 1331200000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.441929	3.10059	
+CPU_Freq[1881600]: 0.448799	2.96843	
+CPU_Freq[1728000]: 0.452827	2.83219	
+CPU_Freq[1574400]: 0.454015	2.69188	
+CPU_Freq[1420800]: 0.45236	2.54748	
+CPU_Freq[1267200]: 0.447865	2.399	
+CPU_Freq[1113600]: 0.440528	2.24645	
+CPU_Freq[960000]: 0.43035	2.08982	
+CPU_Freq[806400]: 0.41733	1.9291	
+CPU_Freq[652800]: 0.401469	1.76431	
+CPU_Freq[499200]: 0.382766	1.59543	
+CPU_Freq[345600]: 0.361223	1.42248	
+Cluster 1: 
+CPU_Freq[2035200]: 1.50103	1.95086	2.04269	
+CPU_Freq[1881600]: 1.47344	1.91747	1.99956	
+CPU_Freq[1728000]: 1.44402	1.88118	1.95453	
+CPU_Freq[1574400]: 1.41276	1.84198	1.90762	
+CPU_Freq[1420800]: 1.37966	1.79987	1.85881	
+CPU_Freq[1267200]: 1.34472	1.75486	1.80812	
+CPU_Freq[1113600]: 1.30794	1.70695	1.75555	
+CPU_Freq[960000]: 1.26933	1.65613	1.70108	
+CPU_Freq[806400]: 1.22887	1.60241	1.64472	
+CPU_Freq[652800]: 1.18658	1.54578	1.58648	
+CPU_Freq[499200]: 1.14244	1.48625	1.52635	
+CPU_Freq[345600]: 1.09647	1.42382	1.46433	
+Memory Frequency: 1062400000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.279236	2.9837	
+CPU_Freq[1881600]: 0.285982	2.85241	
+CPU_Freq[1728000]: 0.289887	2.71705	
+CPU_Freq[1574400]: 0.290951	2.5776	
+CPU_Freq[1420800]: 0.289174	2.43408	
+CPU_Freq[1267200]: 0.284555	2.28648	
+CPU_Freq[1113600]: 0.277095	2.13479	
+CPU_Freq[960000]: 0.266793	1.97903	
+CPU_Freq[806400]: 0.25365	1.81919	
+CPU_Freq[652800]: 0.237665	1.65527	
+CPU_Freq[499200]: 0.218839	1.48727	
+CPU_Freq[345600]: 0.197172	1.31519	
+Cluster 1: 
+CPU_Freq[2035200]: 1.38401	1.82233	1.91354	
+CPU_Freq[1881600]: 1.35643	1.78895	1.87039	
+CPU_Freq[1728000]: 1.32701	1.75266	1.82536	
+CPU_Freq[1574400]: 1.29574	1.71346	1.77845	
+CPU_Freq[1420800]: 1.26264	1.67136	1.72964	
+CPU_Freq[1267200]: 1.2277	1.62636	1.67894	
+CPU_Freq[1113600]: 1.19093	1.57845	1.62636	
+CPU_Freq[960000]: 1.15231	1.52764	1.57189	
+CPU_Freq[806400]: 1.11185	1.47392	1.51553	
+CPU_Freq[652800]: 1.06956	1.4173	1.45728	
+CPU_Freq[499200]: 1.02543	1.35777	1.39714	
+CPU_Freq[345600]: 0.979456	1.29534	1.33512	
+Memory Frequency: 800000000: 
+Cluster 0: 
+CPU_Freq[2035200]: 0.232022	2.97186	
+CPU_Freq[1881600]: 0.238648	2.84142	
+CPU_Freq[1728000]: 0.242433	2.70691	
+CPU_Freq[1574400]: 0.243376	2.56832	
+CPU_Freq[1420800]: 0.241478	2.42565	
+CPU_Freq[1267200]: 0.236739	2.27889	
+CPU_Freq[1113600]: 0.229158	2.12806	
+CPU_Freq[960000]: 0.218736	1.97315	
+CPU_Freq[806400]: 0.205472	1.81417	
+CPU_Freq[652800]: 0.189367	1.6511	
+CPU_Freq[499200]: 0.170421	1.48395	
+CPU_Freq[345600]: 0.148633	1.31272	
+Cluster 1: 
+CPU_Freq[2035200]: 1.40027	1.81757	1.91083	
+CPU_Freq[1881600]: 1.37268	1.78419	1.86768	
+CPU_Freq[1728000]: 1.34326	1.7479	1.82265	
+CPU_Freq[1574400]: 1.312	1.70871	1.77572	
+CPU_Freq[1420800]: 1.2789	1.66662	1.72691	
+CPU_Freq[1267200]: 1.24396	1.62162	1.67621	
+CPU_Freq[1113600]: 1.20718	1.57372	1.62362	
+CPU_Freq[960000]: 1.16856	1.52291	1.56915	
+CPU_Freq[806400]: 1.12811	1.46919	1.51278	
+CPU_Freq[652800]: 1.08581	1.41258	1.45453	
+CPU_Freq[499200]: 1.04168	1.35305	1.39439	
+CPU_Freq[345600]: 0.99571	1.29063	1.33236	
+
+[Congratulations!] All the training Phase finished. Training finished time: 1684764679392. Set the CPU frequency of all clusters back to the highest frequency
+[DEBUG] The best resource width for CP tasks on cluster 1 and 2 are <1> and <4>
+[DEBUG] Using 2 cores in cluster 1 and 4 cores in cluster 2: predicted execution time = 0.143624, predicted CPU power = 4.77407, predicted EDP = 0.0984787
+[DEBUG] Using 2 cores in cluster 1 and 2 cores in cluster 2: predicted execution time = 0.170122, predicted CPU power = 4.22023, predicted EDP = 0.122139
+[DEBUG] Using 2 cores in cluster 1 and 1 cores in cluster 2: predicted execution time = 0.18741, predicted CPU power = 4.05489, predicted EDP = 0.142417
+[DEBUG] Using 2 cores in cluster 1 and 0 cores in cluster 2: predicted execution time = 0.208608, predicted CPU power = 3.25582, predicted EDP = 0.141685
+[DEBUG] Using 1 cores in cluster 1 and 4 cores in cluster 2: predicted execution time = 0.21902, predicted CPU power = 3.37488, predicted EDP = 0.161892
+[DEBUG] Using 1 cores in cluster 1 and 2 cores in cluster 2: predicted execution time = 0.287248, predicted CPU power = 2.82104, predicted EDP = 0.232768
+[DEBUG] Using 1 cores in cluster 1 and 1 cores in cluster 2: predicted execution time = 0.340243, predicted CPU power = 2.6557, predicted EDP = 0.307439
+[DEBUG] Using 1 cores in cluster 1 and 0 cores in cluster 2: predicted execution time = 0.417217, predicted CPU power = 1.85663, predicted EDP = 0.323183
+[DEBUG] Using 2 cores in cluster 1 and 4 cores in cluster 2 achieves the lowest predicted EDP.
+[DEBUG] For CP tasks, 68.8486% of tasks should be scheduled to cluster 0
+[DEBUG] For CP tasks, 31.1514% of tasks should be scheduled to cluster 1
+Thread 4 sleeps for 61574 ms. 
+Task type: 0: Thread 4 with width 1 completes 4 tasks.
+Task type: 0: Thread 4 with width 2 completes 7 tasks.
+Task type: 0: Thread 4 with width 4 completes 5001 tasks.
+Task type: 1: Thread 4 with width 1 completes 0 tasks.
+Task type: 1: Thread 4 with width 2 completes 0 tasks.
+Task type: 1: Thread 4 with width 4 completes 0 tasks.
+Task type: 2: Thread 4 with width 1 completes 0 tasks.
+Task type: 2: Thread 4 with width 2 completes 0 tasks.
+Task type: 2: Thread 4 with width 4 completes 0 tasks.
+Task type: 3: Thread 4 with width 1 completes 0 tasks.
+Task type: 3: Thread 4 with width 2 completes 0 tasks.
+Task type: 3: Thread 4 with width 4 completes 0 tasks.
+Task type: 4: Thread 4 with width 1 completes 0 tasks.
+Task type: 4: Thread 4 with width 2 completes 0 tasks.
+Task type: 4: Thread 4 with width 4 completes 0 tasks.
+Task type: 5: Thread 4 with width 1 completes 0 tasks.
+Task type: 5: Thread 4 with width 2 completes 0 tasks.
+Task type: 5: Thread 4 with width 4 completes 0 tasks.
+The total execution time of thread 4 is 153.779 s.
+Thread 0 sleeps for 1870 ms. 
+Task type: 0: Thread 0 with width 1 completes 7491 tasks.
+Task type: 0: Thread 0 with width 2 completes 11 tasks.
+Task type: 0: Thread 0 with width 4 completes 0 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 1: Thread 0 with width 2 completes 0 tasks.
+Task type: 1: Thread 0 with width 4 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 2 completes 0 tasks.
+Task type: 2: Thread 0 with width 4 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 2 completes 0 tasks.
+Task type: 3: Thread 0 with width 4 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 2 completes 0 tasks.
+Task type: 4: Thread 0 with width 4 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 2 completes 0 tasks.
+Task type: 5: Thread 0 with width 4 completes 0 tasks.
+The total execution time of thread 0 is 214.376 s.
+Thread 3 sleeps for 60693 ms. 
+Task type: 0: Thread 3 with width 1 completes 6 tasks.
+Task type: 0: Thread 3 with width 2 completes 8 tasks.
+Task type: 0: Thread 3 with width 4 completes 5001 tasks.
+Task type: 1: Thread 3 with width 1 completes 0 tasks.
+Task type: 1: Thread 3 with width 2 completes 0 tasks.
+Task type: 1: Thread 3 with width 4 completes 0 tasks.
+Task type: 2: Thread 3 with width 1 completes 0 tasks.
+Task type: 2: Thread 3 with width 2 completes 0 tasks.
+Task type: 2: Thread 3 with width 4 completes 0 tasks.
+Task type: 3: Thread 3 with width 1 completes 0 tasks.
+Task type: 3: Thread 3 with width 2 completes 0 tasks.
+Task type: 3: Thread 3 with width 4 completes 0 tasks.
+Task type: 4: Thread 3 with width 1 completes 0 tasks.
+Task type: 4: Thread 3 with width 2 completes 0 tasks.
+Task type: 4: Thread 3 with width 4 completes 0 tasks.
+Task type: 5: Thread 3 with width 1 completes 0 tasks.
+Task type: 5: Thread 3 with width 2 completes 0 tasks.
+Task type: 5: Thread 3 with width 4 completes 0 tasks.
+The total execution time of thread 3 is 154.635 s.
+Thread 1 sleeps for 1300 ms. 
+Task type: 0: Thread 1 with width 1 completes 7461 tasks.
+Task type: 0: Thread 1 with width 2 completes 11 tasks.
+Task type: 0: Thread 1 with width 4 completes 0 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 1: Thread 1 with width 2 completes 0 tasks.
+Task type: 1: Thread 1 with width 4 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 2 completes 0 tasks.
+Task type: 2: Thread 1 with width 4 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 2 completes 0 tasks.
+Task type: 3: Thread 1 with width 4 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 2 completes 0 tasks.
+Task type: 4: Thread 1 with width 4 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 2 completes 0 tasks.
+Task type: 5: Thread 1 with width 4 completes 0 tasks.
+The total execution time of thread 1 is 214.984 s.
+Thread 5 sleeps for 61620 ms. 
+Task type: 0: Thread 5 with width 1 completes 6 tasks.
+Task type: 0: Thread 5 with width 2 completes 7 tasks.
+Task type: 0: Thread 5 with width 4 completes 5001 tasks.
+Task type: 1: Thread 5 with width 1 completes 0 tasks.
+Task type: 1: Thread 5 with width 2 completes 0 tasks.
+Task type: 1: Thread 5 with width 4 completes 0 tasks.
+Task type: 2: Thread 5 with width 1 completes 0 tasks.
+Task type: 2: Thread 5 with width 2 completes 0 tasks.
+Task type: 2: Thread 5 with width 4 completes 0 tasks.
+Task type: 3: Thread 5 with width 1 completes 0 tasks.
+Task type: 3: Thread 5 with width 2 completes 0 tasks.
+Task type: 3: Thread 5 with width 4 completes 0 tasks.
+Task type: 4: Thread 5 with width 1 completes 0 tasks.
+Task type: 4: Thread 5 with width 2 completes 0 tasks.
+Task type: 4: Thread 5 with width 4 completes 0 tasks.
+Task type: 5: Thread 5 with width 1 completes 0 tasks.
+Task type: 5: Thread 5 with width 2 completes 0 tasks.
+Task type: 5: Thread 5 with width 4 completes 0 tasks.
+The total execution time of thread 5 is 153.677 s.
+Thread 2 sleeps for 62068 ms. 
+Task type: 0: Thread 2 with width 1 completes 5 tasks.
+Task type: 0: Thread 2 with width 2 completes 8 tasks.
+Task type: 0: Thread 2 with width 4 completes 5001 tasks.
+Task type: 1: Thread 2 with width 1 completes 0 tasks.
+Task type: 1: Thread 2 with width 2 completes 0 tasks.
+Task type: 1: Thread 2 with width 4 completes 0 tasks.
+Task type: 2: Thread 2 with width 1 completes 0 tasks.
+Task type: 2: Thread 2 with width 2 completes 0 tasks.
+Task type: 2: Thread 2 with width 4 completes 0 tasks.
+Task type: 3: Thread 2 with width 1 completes 0 tasks.
+Task type: 3: Thread 2 with width 2 completes 0 tasks.
+Task type: 3: Thread 2 with width 4 completes 0 tasks.
+Task type: 4: Thread 2 with width 1 completes 0 tasks.
+Task type: 4: Thread 2 with width 2 completes 0 tasks.
+Task type: 4: Thread 2 with width 4 completes 0 tasks.
+Task type: 5: Thread 2 with width 1 completes 0 tasks.
+Task type: 5: Thread 2 with width 2 completes 0 tasks.
+Task type: 5: Thread 2 with width 4 completes 0 tasks.
+The total execution time of thread 2 is 153.288 s.
+20000,16,1684764678391	1684764894837,216.446,92.4017
+
+

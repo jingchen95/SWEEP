@@ -1,0 +1,46 @@
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose RWSS scheduler ---------------------
+Thread 0 sleeps for 78 ms. 
+Task type: 0: Thread 0 with width 1 completes 2497 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+The total execution time of thread 0 is 266.811 s.
+Thread 1 sleeps for 0 ms. 
+Task type: 0: Thread 1 with width 1 completes 2503 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+The total execution time of thread 1 is 266.885 s.
+5000,4,1689168484082	1689168751050,266.968,18.7288
+Total number of steals across clusters: 0
+Total number of steals: 2503
+
+
+---------------------- Test Application - Synthetic Benchmarks ---------------------
+---------------------- You choose RWSS scheduler ---------------------
+Thread 1 sleeps for 0 ms. 
+Task type: 0: Thread 1 with width 1 completes 2499 tasks.
+Task type: 1: Thread 1 with width 1 completes 0 tasks.
+Task type: 2: Thread 1 with width 1 completes 0 tasks.
+Task type: 3: Thread 1 with width 1 completes 0 tasks.
+Task type: 4: Thread 1 with width 1 completes 0 tasks.
+Task type: 5: Thread 1 with width 1 completes 0 tasks.
+The total execution time of thread 1 is 266.438 s.
+Thread 0 sleeps for 70 ms. 
+Task type: 0: Thread 0 with width 1 completes 2501 tasks.
+Task type: 1: Thread 0 with width 1 completes 0 tasks.
+Task type: 2: Thread 0 with width 1 completes 0 tasks.
+Task type: 3: Thread 0 with width 1 completes 0 tasks.
+Task type: 4: Thread 0 with width 1 completes 0 tasks.
+Task type: 5: Thread 0 with width 1 completes 0 tasks.
+The total execution time of thread 0 is 266.37 s.
+5000,4,1689168762576	1689169029095,266.519,18.7604
+Total number of steals across clusters: 0
+Total number of steals: 2499
+
+
